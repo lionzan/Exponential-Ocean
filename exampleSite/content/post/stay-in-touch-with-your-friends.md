@@ -5,7 +5,7 @@ title: Stay in Touch With Your Friends
 description: Nurture long term relationships with people you like and care for. Don't
   let life events make you forget of them!
 date:
-image: "/images/post/friends.jpg"
+image: "images/post/friends.jpg"
 draft: true
 
 ---

@@ -5,7 +5,7 @@ title: What is Your Internal Beacon?
 description: A clear End Result that guides us as a beacon is essential to achieve something
   in life. Without knowing where you want to go, it's very difficult to get anywhere!
 date: 2021-03-28T23:00:00+00:00
-image: "/images/post/beacon.jpg"
+image: "images/post/beacon.jpg"
 
 ---
 A clear End Result that guides us as a beacon is essential to achieve something in life. Without knowing where you want to go, it's very difficult to get anywhere!
@@ -24,6 +24,6 @@ I am a changemaker helping **CEOs, entrepreneurs, philanthropists and great orga
 
 If you want to **10x your impact on Ocean Sustainability and Decarbonisation** lets' talk, you can reach me on [leonardo@startupwharf.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=leonardo@startupwharf.com)
 
-![](/images/post/beacon.jpg)
+![](images/post/beacon.jpg)
 
 Photo by [Joost Smit](https://unsplash.com/@joostsmit?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](/s/photos/beacon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)

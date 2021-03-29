@@ -4,7 +4,7 @@ author: Leonardo Zangrando
 title: For the Sake of It
 description: OK, How Do I Find Out Which is My True Calling?
 date:
-image: "/images/post/road-trip.jpg"
+image: "images/post/road-trip.jpg"
 draft: true
 
 ---

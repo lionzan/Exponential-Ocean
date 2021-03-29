@@ -4,7 +4,7 @@ author: Leonardo Zangrando
 title: 5 + 2 "Business Models" for Your Life
 description: What is that you want to do; how do you want to achieve it. You have 7 choices...
 date: 2021-02-13T00:00:00.000+00:00
-image: "/images/post/seven-magic-mountains-210213.jpg"
+image: "images/post/seven-magic-mountains-210213.jpg"
 
 ---
 In our society money is the most efficient way to exchange value and to buy things. But we have to make money if we want to be able to spend it. We can decide to do this in a number of ways, depending on our inclinations and aspirations. I have identified 5 of these. Moreover there is a couple of ways we can decide to play outside the system instead of within.
@@ -53,6 +53,6 @@ Which model did you choose? Why? What was there to stop you from choosing a bett
 
 I work with **CEOs, philanthropists, startup founders and great organisations** to impact Ocean Sustainability and Decarbonisation at scale. If you want to **10x your impact on Ocean Sustainability and Decarbonisation** get in touch on: [leonardo@startupwharf.com](mailto:leonardo@startupwharf.com)
 
-![](/images/post/seven-magic-mountains-210213.jpg)
+![](images/post/seven-magic-mountains-210213.jpg)
 
 _This is Ugo Rondinone's_ [_Seven Magic Mountains_](http://sevenmagicmountains.com/) _art installation in Las Vegas, NV. I chose it to represent the 7 choices we have about how we want to play our life. Thank you_ [_Wesley Tingey_](https://unsplash.com/@wesleyphotography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) _on_ [_Unsplash_](https://unsplash.com/s/photos/seven-mountains?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) _for the beautiful picture._
