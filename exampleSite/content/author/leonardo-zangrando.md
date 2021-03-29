@@ -11,5 +11,8 @@ social:
   link: "#"
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
-Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.
+“I am a Consultant, Advisor and Coach with a passion for the Ocean and I help CEOs, Entrepreneurs and Philanthropists multiply their personal impact on Ocean Sustainability and Decarbonisation. 
+
+I help them gain clarity of intentions, discover their unique individual approach to sustainability and uncover their ability to multiply their impact, with integrity, transparency and out-of-the-box thinking. 
+
+I work One-to-One with individual clients and run Sustainability Mastermind Groups.
