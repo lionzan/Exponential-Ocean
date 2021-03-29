@@ -1,4 +1,3 @@
-
 ---
 timeToRead: 1
 author: Leonardo Zangrando
@@ -6,7 +5,7 @@ title: Take Charge!
 description: Too often I dropped very interesting opportunities because they had something
   that didn't fit with my ethics. Apparently the right choice. However...
 date: 2021-02-27T00:00:00.000+00:00
-image: "images/post/red-or-bue-pill.jpg"
+image: images/post/red-or-bue-pill.jpg
 
 ---
 Several times in my career I had to take a decision about a very interesting business or job opportunity, which had some ethical downside. Should I take it or should I walk away? I consistently made what I considered to be the right choice, that is, stay ethical and walk away.
@@ -25,7 +24,7 @@ The lesson for me is simple yet powerful. Take charge! If something is wrong in 
 
 I work with **CEOs, philanthropists, startup founders and great organisations** to impact Ocean Sustainability and Decarbonisation at scale. If you want to **10x your impact on Ocean Sustainability and Decarbonisation** get in touch on: [leonardo@startupwharf.com](mailto:leonardo@startupwharf.com)
 
-![](images/post/red-or-bue-pill.jpg)
+![this image does not show?](images/post/red-or-bue-pill.jpg "Title: this image does not show?")
 
 _The picture is obviously about Neo's choice in "The Matrix"... live in oblivion or take charge?_
 
