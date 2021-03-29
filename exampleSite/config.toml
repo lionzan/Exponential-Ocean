@@ -36,6 +36,7 @@ copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By 
 description = "This is meta description"
 logo = "images/logo.png"
 search = true
+custom_css = ["css/foo.css"]
 [params.cookies]
 enable = true
 expire_days = 2
