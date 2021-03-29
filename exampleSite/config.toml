@@ -1,10 +1,10 @@
 baseURL = "https://sharp-heisenberg-d97dd9.netlify.app/"
 disqusShortname = ""
-languageCode = "en-us"
+languageCode = "en-uk"
 languageName = "En"
 paginate = "5"
 theme = "persian"
-title = "Persian"
+title = "Sustainability Impact Coach"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
