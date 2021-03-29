@@ -5,7 +5,7 @@ title: Half-Empty or Half-Full?
 description: I've always questioned this statement because I find it very limiting...
   Why, you'll ask?
 date: 2021-03-05T00:00:00.000+00:00
-image: "/images/astra-hamburg-210305.jpg"
+image: "/images/post/astra-hamburg-210305.jpg"
 
 ---
 Sure, if you have half-a-glass of beer you can choose whether you want to look at it as half-empty or half-full. And your words will determine your worldview. The half-full perspective is much more empowering and sets in motion a chain of good thoughts...
@@ -24,4 +24,4 @@ Conversely, as soon as I ask myself, what can I do to change things, to change w
 
 I work with **CEOs, philanthropists, startup founders and great organisations** to impact Ocean Sustainability and Decarbonisation at scale. If you want to **10x your impact on Ocean Sustainability and Decarbonisation** get in touch on: [leonardo@startupwharf.com](mailto:leonardo@startupwharf.com)
 
-![](/images/astra-hamburg-full-210305.jpg)_I took this picture in Hamburg, where the local beer Astra logo is an anchor in a heart. Very nice for a maritime city with a great shipping history, and very nice for me as a Naval Architect! Cheers!_
+![](/images/post/astra-hamburg-full-210305.jpg)_I took this picture in Hamburg, where the local beer Astra logo is an anchor in a heart. Very nice for a maritime city with a great shipping history, and very nice for me as a Naval Architect! Cheers!_

@@ -5,7 +5,7 @@ title: 25 Things I Want to Do Before I Die
 description: Think deep, what are the 25 things you want to achieve before you die? Which
   of these are the top 5? Avoid the other 20 as poison!
 date: 2021-02-20T00:00:00.000+00:00
-image: "/images/things-to-do.jpg"
+image: "/images/post/things-to-do.jpg"
 
 ---
 If you want to achieve anything, you need first to have clear what is that you want to achieve, as I already mentioned in [another post](/post/how-to-materialise-the-things-you-need-to-achieve-your-objective/). But **what is that you want to achieve**?
@@ -28,6 +28,6 @@ So, keep always max 5 (someone says 8) top objectives in your life and spend all
 
 I work with **CEOs, philanthropists, startup founders and great organisations** to impact Ocean Sustainability and Decarbonisation at scale. If you want to **10x your impact on Ocean Sustainability and Decarbonisation** get in touch on: [leonardo@startupwharf.com](mailto:leonardo@startupwharf.com)
 
-![](/images/things-to-do.jpg)
+![](/images/post/things-to-do.jpg)
 
 _The photo I chose is rather self-explanatory! By_ [_Donald Giannatti_](https://unsplash.com/@wizwow?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) _on_ [_Unsplash_](https://unsplash.com/s/photos/list?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)

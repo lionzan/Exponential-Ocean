@@ -6,7 +6,7 @@ description: You are the leaders who are going to shape the future. You live in 
   moving fast and you have the chance to see the change you want to bring happen as
   fast.
 date: 2021-03-13T00:00:00+00:00
-image: "/images/luckiest-leaders.jpeg"
+image: "/images/post/luckiest-leaders.jpeg"
 
 ---
 You are the leaders who are going to shape the future. Or be defeated by it. You can shape the future and see the results of your work in a short timespan. You don’t have to wait years and years to see the change you started, finally take place. You live in a world moving fast and you have the chance to see the change you want to bring happen as fast. How lucky you are.
@@ -27,7 +27,7 @@ You can define the future. Yet most likely it will not be the future that you en
 
 I work with **CEOs, philanthropists, startup founders and great organisations** to impact Ocean Sustainability and Decarbonisation at scale. If you want to **10x your impact on Ocean Sustainability and Decarbonisation** get in touch on: [leonardo@startupwharf.com](mailto:leonardo@startupwharf.com)
 
-![](/images/luckiest-leaders.jpeg)
+![](/images/post/luckiest-leaders.jpeg)
 
 Photo by [Enzo Tommasi](https://unsplash.com/@11x11?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](/s/photos/painting?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 

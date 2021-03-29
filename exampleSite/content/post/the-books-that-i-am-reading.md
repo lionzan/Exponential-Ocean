@@ -5,7 +5,7 @@ title: The Books That I Am Reading
 description: These days I'm interested in how we can save the Planet and what goes on
   inside our mind
 date: 2021-03-22T00:00:00+00:00
-image: "/images/books-1.jpeg"
+image: "/images/post/books-1.jpeg"
 
 ---
 This week I am reading the following books:

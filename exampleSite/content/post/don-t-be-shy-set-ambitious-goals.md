@@ -4,7 +4,7 @@ author:
 title: Don't be Shy, Set Ambitious Goals!
 description: Setting easily-reachable goals for yourself is a self defeating practice...
 date:
-image: "/images/high-jump.jpeg"
+image: "/images/post/high-jump.jpeg"
 draft: true
 
 ---
