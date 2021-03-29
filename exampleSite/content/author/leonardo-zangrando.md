@@ -1,6 +1,6 @@
 ---
 title: Leonardo Zangrando
-image: images/google-profile-picture.jpg
+image: images/google-profile-picture.png
 email: leonardo@zangrando.com
 social:
 - icon: ti-email
