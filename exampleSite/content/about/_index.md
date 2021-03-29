@@ -1,20 +1,20 @@
 ---
-title: "I am a Consultant, Advisor and Coach with a passion for the Ocean and I help CEOs, Entrepreneurs and Philanthropists multiply their personal impact on Ocean Sustainability and Decarbonisation."
+title: "Consultant, Advisor and Coach with a passion for the Ocean. Helping CEOs, Entrepreneurs and Philanthropists multiply their personal impact on Ocean Sustainability."
 image: "images/google-profile-picture.png"
 description: "This is meta description."
 draft: false
 ---
-I help them 
+I am a Consultant, Advisor and Coach with a passion for the Ocean and I help CEOs, Entrepreneurs and Philanthropists multiply their personal impact on Ocean Sustainability and Decarbonisation. I help them 
 
-- gain clarity of intentions, 
-- discover their unique individual approach to sustainability and 
+- gain clarity of intentions
+- discover their unique individual approach to sustainability
 - uncover their ability to multiply their impact.
 
 I bring them integrity, transparency and out-of-the-box thinking. 
 
 I work One-to-One with individual clients and run Sustainability Mastermind Groups.
 
-##Who is Leonardo##
+## Who is Leonardo
 
 I am a profoundly curious creative thinker with a bias for action. I always ask myself Why-What-How: _“Why things are how they are, what can we do to change them for the better, how can we take action now?“_
 
@@ -26,7 +26,7 @@ I have repeatedly been a trailblazer in adopting technical innovation, process i
 - I was the first to bring the Lean Startup concepts to Europe and launched a Lean Startup entrepreneurship course in parallel with the first similar course by Steve Blank in Silicon Valley.
 - I turned around complex operations in a container terminal running 24/7 by successfully changing the infrastructure, tools and operating model on the go.
 
-###Curious Creative Thinker with a Bias for Action###
+### A Curious Creative Thinker With a Bias for Action
 
 When I was a child I used to read a lot and asked millions of why and how questions. I was always thinking how to make things. As a pastime with my cousins, we would design and build new board games for us to play when we got tired of the existing ones. I always kept my hands dirty by inventing and making objects using wood, steel, aluminium. The emotion of seeing an object that I envisioned, take shape under my hands is indescribable. The joy of using it day after day is ineffable.
 
