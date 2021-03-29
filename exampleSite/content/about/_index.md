@@ -6,17 +6,16 @@ draft: false
 ---
 I am a Consultant, Advisor and Coach with a passion for the Ocean and I help CEOs, Entrepreneurs and Philanthropists multiply their personal impact on Ocean Sustainability and Decarbonisation. I help them 
 
-- gain clarity of intentions
-- discover their unique individual approach to sustainability
-- uncover their ability to multiply their impact.
+- gain __clarity of intentions__
+- discover their __unique individual approach__ to sustainability
+- uncover their __power to multiply their impact__
 
-I bring them integrity, transparency and out-of-the-box thinking. 
+I work __One-to-One__ with individual clients and run __Sustainability Mastermind Groups__, with __integrity__, __transparency__ and __out-of-the-box thinking__. 
 
-I work One-to-One with individual clients and run Sustainability Mastermind Groups.
 
 ## Who is Leonardo
 
-I am a profoundly curious creative thinker with a bias for action. I always ask myself Why-What-How: _“Why things are how they are, what can we do to change them for the better, how can we take action now?“_
+I am a profoundly curious creative thinker with a bias for action. I always ask myself __Why-What-How__: _“Why things are how they are, what can we do to change them for the better, how can we take action now?“_
 
 I am known in the maritime sector as the founder of [Startup Wharf](https://startupwharf.com), the first ever niche community of maritime startups, which has become a reference for the industry, helping startups make the maritime sector more sustainable.
 
