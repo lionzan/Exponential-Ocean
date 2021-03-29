@@ -1,6 +1,6 @@
 ---
 title: Leonardo Zangrando
-image: ''
+image: author.jpg
 email: leonardo@zangrando.com
 social:
 - icon: ti-email
