@@ -1,10 +1,10 @@
 ---
 timeToRead: 2
-authors: []
+author:
 title: 'By focusing on the negative you make it happen '
-excerpt: ''
-date: 
-hero: ''
+description: ''
+date:
+image: ''
 draft: true
 
 ---

@@ -1,12 +1,11 @@
 ---
 timeToRead: 2
-authors:
-- Leonardo Zangrando
+author: Leonardo Zangrando
 title: Stay in Touch With Your Friends
-excerpt: Nurture long term relationships with people you like and care for. Don't
+description: Nurture long term relationships with people you like and care for. Don't
   let life events make you forget of them!
-date: 
-hero: "/images/friends.jpg"
+date:
+image: "/images/friends.jpg"
 draft: true
 
 ---

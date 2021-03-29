@@ -1,10 +1,10 @@
 ---
 timeToRead: 0
-authors: []
+author:
 title: Connect
-excerpt: ''
-date: 
-hero: ''
+description: ''
+date:
+image: ''
 draft: true
 
 ---

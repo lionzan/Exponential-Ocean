@@ -2,9 +2,9 @@
 timeToRead: 2
 authors: []
 title: Spend Time with Fun and Interesting People
-excerpt: quote from Rich Litvin
-date: 
-hero: ''
+description: quote from Rich Litvin
+date:
+image: ''
 draft: true
 
 ---

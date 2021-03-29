@@ -1,11 +1,10 @@
 ---
 timeToRead: 3
-authors:
-- Leonardo Zangrando
+author: Leonardo Zangrando
 title: Multiply your Impact with Leverage
-excerpt: How can you work smart and obtain 10X results?
+description: How can you work smart and obtain 10X results?
 date: 2021-03-20T00:00:00+00:00
-hero: "/images/leverage.jpeg"
+image: "/images/leverage.jpeg"
 
 ---
 Yesterday I had a breakthrough in a project I have been working on for a while. The objective was a simple sales objective, to reach as many clients as possible with an offer.

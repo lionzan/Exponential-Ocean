@@ -1,12 +1,11 @@
 ---
 timeToRead: 2
-authors:
-- Leonardo Zangrando
+author: Leonardo Zangrando
 title: 25 Things I Want to Do Before I Die
-excerpt: Think deep, what are the 25 things you want to achieve before you die? Which
+description: Think deep, what are the 25 things you want to achieve before you die? Which
   of these are the top 5? Avoid the other 20 as poison!
 date: 2021-02-20T00:00:00.000+00:00
-hero: "/images/things-to-do.jpg"
+image: "/images/things-to-do.jpg"
 
 ---
 If you want to achieve anything, you need first to have clear what is that you want to achieve, as I already mentioned in [another post](/post/how-to-materialise-the-things-you-need-to-achieve-your-objective/). But **what is that you want to achieve**?

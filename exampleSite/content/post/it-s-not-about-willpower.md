@@ -1,10 +1,10 @@
 ---
 timeToRead: 2
-authors: []
+author:
 title: It's Not About Willpower
-excerpt: ''
-date: 
-hero: ''
+description: ''
+date:
+image: ''
 draft: true
 
 ---

@@ -1,10 +1,10 @@
 ---
 timeToRead: 2
-authors: []
+author:
 title: 'Don''t Repair the Past, Create the Future '
-excerpt: ''
-date: 
-hero: ''
+description: ''
+date:
+image: ''
 draft: true
 
 ---

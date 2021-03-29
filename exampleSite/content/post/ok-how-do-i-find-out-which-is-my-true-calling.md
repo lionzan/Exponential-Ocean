@@ -1,11 +1,10 @@
 ---
 timeToRead: 2
-authors:
-- Leonardo Zangrando
+author: Leonardo Zangrando
 title: For the Sake of It
-excerpt: OK, How Do I Find Out Which is My True Calling?
-date: 
-hero: "/images/road-trip.jpg"
+description: OK, How Do I Find Out Which is My True Calling?
+date:
+image: "/images/road-trip.jpg"
 draft: true
 
 ---

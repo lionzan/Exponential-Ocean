@@ -1,12 +1,11 @@
 ---
 timeToRead: 1
-authors:
-- Leonardo Zangrando
+author: Leonardo Zangrando
 title: The Books That I Am Reading
-excerpt: These days I'm interested in how we can save the Planet and what goes on
+description: These days I'm interested in how we can save the Planet and what goes on
   inside our mind
 date: 2021-03-22T00:00:00+00:00
-hero: "/images/books-1.jpeg"
+image: "/images/books-1.jpeg"
 
 ---
 This week I am reading the following books:

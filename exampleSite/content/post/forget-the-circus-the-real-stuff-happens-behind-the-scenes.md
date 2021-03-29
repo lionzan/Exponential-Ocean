@@ -1,10 +1,10 @@
 ---
 timeToRead: 2
-authors: []
+author:
 title: Forget the Circus, the Real Stuff Happens Behind the Scenes!
-excerpt: ''
-date: 
-hero: ''
+description: ''
+date:
+image: ''
 draft: true
 
 ---

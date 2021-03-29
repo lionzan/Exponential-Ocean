@@ -2,9 +2,9 @@
 timeToRead: 2
 authors: []
 title: The Power of NO
-excerpt: ''
-date: 
-hero: ''
+description: ''
+date:
+image: ''
 draft: true
 
 ---

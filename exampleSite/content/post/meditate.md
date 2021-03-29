@@ -1,10 +1,10 @@
 ---
 timeToRead: 2
-authors: []
+author: ''
 title: Meditate!
-excerpt: ''
-date: 
-hero: ''
+description: ''
+date:
+image: ''
 draft: true
 
 ---
@@ -18,6 +18,6 @@ Path of Least Resistance – find and be driven by End Result
 
 Are we solving past issues/tensions or focusing on the ER?
 
-PLR – start from "I don't know" and go towards my ER, past not defines 
+PLR – start from "I don't know" and go towards my ER, past not defines
 
 easy vs effortless

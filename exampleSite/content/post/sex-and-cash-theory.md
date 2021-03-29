@@ -2,9 +2,9 @@
 timeToRead: 2
 authors: []
 title: Sex and Cash Theory
-excerpt: ''
-date: 
-hero: ''
+description: ''
+date:
+image: ''
 draft: true
 
 ---

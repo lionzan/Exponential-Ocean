@@ -2,9 +2,9 @@
 timeToRead: 2
 authors: []
 title: That's How I Am
-excerpt: ''
-date: 
-hero: ''
+description: ''
+date:
+image: ''
 draft: true
 
 ---

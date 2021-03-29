@@ -1,10 +1,10 @@
 ---
 timeToRead: 2
-authors: []
+author:
 title: Don't be Shy, Set Ambitious Goals!
-excerpt: Setting easily-reachable goals for yourself is a self defeating practice...
-date: 
-hero: "/images/high-jump.jpeg"
+description: Setting easily-reachable goals for yourself is a self defeating practice...
+date:
+image: "/images/high-jump.jpeg"
 draft: true
 
 ---

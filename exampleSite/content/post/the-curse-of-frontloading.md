@@ -2,9 +2,9 @@
 timeToRead: 1
 authors: []
 title: The Curse of Frontloading
-excerpt: ''
-date: 
-hero: ''
+description: ''
+date:
+image: ''
 draft: true
 
 ---

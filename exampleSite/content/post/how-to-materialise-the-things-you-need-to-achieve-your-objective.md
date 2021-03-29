@@ -1,12 +1,11 @@
 ---
 timeToRead: 2
-authors:
-- Leonardo Zangrando
+author: Leonardo Zangrando
 title: How to Become a Magician
-excerpt: How do successful people always get a lucky hand in life? Just because they
+description: How do successful people always get a lucky hand in life? Just because they
   are lucky?
 date: 2021-02-06T00:00:00.000+00:00
-hero: "/images/order-in-chaos-210130.jpg"
+image: "/images/order-in-chaos-210130.jpg"
 
 ---
 Or, "How to materialise the things you need in order to achieve your objective" which in fact looks like magic.
