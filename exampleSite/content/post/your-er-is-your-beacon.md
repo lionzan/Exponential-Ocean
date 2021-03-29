@@ -7,7 +7,7 @@ excerpt: A clear End Result that guides us as a beacon is essential to achieve s
   in life. Without knowing where you want to go, it's very difficult to get anywhere!
 date: 2021-03-28T23:00:00.000+00:00
 hero: "/images/beacon.jpg"
-image: "/images/beacon.jpg"
+image: "images/post/beacon.jpg"
 author: Leonardo Zangrando
 description: A clear End Result that guides us as a beacon is essential to achieve
   something in life. Without knowing where you want to go, it's very difficult to
