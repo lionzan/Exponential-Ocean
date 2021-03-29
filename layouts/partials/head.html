@@ -26,6 +26,11 @@ AUTHOR WEBSITE: https://themefisher.com
   {{ "<!-- Main Stylesheet -->" | safeHTML }}
   {{ $styles := resources.Get "scss/style.scss" | toCSS }}
   <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
+  
+  {{ "<!-- custom css code added by LZ -->" | safeHTML }}
+  {{ range .Site.Params.custom_css -}}
+    <link rel="stylesheet" href="{{ . | absURL }}">
+  {{- end }}
 
   {{ "<!--Favicon-->" | safeHTML }}
   <link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
