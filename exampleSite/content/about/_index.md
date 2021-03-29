@@ -1,5 +1,5 @@
 ---
-title: "Consultant, Advisor and Coach with a passion for the Ocean. Helping CEOs, Entrepreneurs and Philanthropists multiply their personal impact on Ocean Sustainability."
+title: "Consultant, Advisor and Coach helping CEOs, Entrepreneurs and Philanthropists multiply their personal impact on Ocean Sustainability"
 image: "images/google-profile-picture.png"
 description: "This is meta description."
 draft: false
