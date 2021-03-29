@@ -1,5 +1,4 @@
 +++
-draft = true
 email = "leonardo@zangrando.com"
 image = ""
 social = []
