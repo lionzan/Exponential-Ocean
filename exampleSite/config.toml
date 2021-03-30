@@ -13,7 +13,7 @@ url = "categories/achieving-greatness/"
 weight = 4
 [[menu.main]]
 name = "You"
-url = "/"
+url = "you"
 weight = 3
 [[menu.main]]
 name = "Privacy Policy"
@@ -24,7 +24,7 @@ name = "Contact"
 url = "contact"
 weight = 6
 [[menu.main]]
-name = "Ocean Sustainability"
+name = "in Ocean Sustainability"
 url = "categories/ocean-sustainability/"
 weight = 5
 [[menu.main]]
