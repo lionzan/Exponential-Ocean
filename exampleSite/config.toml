@@ -8,35 +8,43 @@ title = "Sustainability Impact Coach"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "Home"
+name = "Achieving Greatness"
+url = "categories/achieving-greatness/"
+weight = 4
+[[menu.main]]
+name = "You"
 url = "/"
-weight = 1
+weight = 3
+[[menu.main]]
+name = "Privacy Policy"
+url = "privacy-policy"
+weight = 7
+[[menu.main]]
+name = "Contact"
+url = "contact"
+weight = 6
+[[menu.main]]
+name = "Ocean Sustainability"
+url = "categories/ocean-sustainability/"
+weight = 5
 [[menu.main]]
 name = "About"
 url = "about"
 weight = 2
 [[menu.main]]
-name = "Category"
-url = "categories/nature/"
-weight = 3
-[[menu.main]]
-name = "Contact"
-url = "contact"
-weight = 4
-[[menu.main]]
-name = "Privacy Policy"
-url = "privacy-policy"
-weight = 5
+name = "Thoughts"
+url = "/"
+weight = 1
 [outputs]
 home = ["HTML", "RSS", "json"]
 [params]
 author = "Themefisher"
 contact_form_action = "#"
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+custom_css = ["css/foo.css"]
 description = "This is meta description"
 logo = "images/logo.png"
 search = true
-custom_css = ["css/foo.css"]
 [params.cookies]
 enable = true
 expire_days = 2
