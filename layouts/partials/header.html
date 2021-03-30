@@ -5,7 +5,9 @@
     <nav class="navbar navbar-expand-lg navbar-light">
       <a class="navbar-brand" href="{{ .Site.BaseURL | relLangURL }}">
         {{ if .Site.Params.logo }}
-        <img class="img-fluid" width="150px" src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}">
+        <div class="logo-box">
+          <img class="img-fluid" width="150px" src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}">
+        </div>
         {{ else }}
         {{.Site.Title}}
         {{ end }}
