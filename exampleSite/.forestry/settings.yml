@@ -26,6 +26,10 @@ sections:
   path: exampleSite/content/about/_index.md
   label: About
 - type: document
+  path: exampleSite/content/you/_index.md
+  label: You
+  match: "**/*"
+- type: document
   path: exampleSite/content/contact/_index.md
   label: Contact
 - type: document
