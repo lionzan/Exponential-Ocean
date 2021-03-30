@@ -20,3 +20,9 @@
     max-width: unset;
 }
 
+.logo-box {
+    width: 160px;
+    heigth: 40px;
+    overflow: hidden;
+    position: relative;
+}
