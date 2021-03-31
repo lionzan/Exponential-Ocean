@@ -34,8 +34,13 @@ fields:
   name: tags
   label: tags
   config:
-    use_select: true
+    use_select: false
     source:
       type: pages
       section: post
       file: exampleSite/content/post/the-25-things-you-want-to-do-before-you-die.md
+- name: youtube_handle
+  type: text
+  config:
+    required: false
+  label: youtube handle
