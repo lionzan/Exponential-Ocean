@@ -27,9 +27,15 @@ fields:
     source:
       type: simple
     options:
-    - Ocean Impact
     - Achieving Greatness
+    - Ocean Impact
     - Other
 - type: list
   name: tags
   label: tags
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: post
+      file: exampleSite/content/post/the-25-things-you-want-to-do-before-you-die.md
