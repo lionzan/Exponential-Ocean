@@ -2,11 +2,17 @@
 timeToRead: 3
 author: Leonardo Zangrando
 title: The Luckiest Generation of Leaders of All Times
-description: You are the leaders who are going to shape the future. You live in a world
-  moving fast and you have the chance to see the change you want to bring happen as
-  fast.
-date: 2021-03-13T00:00:00+00:00
-image: "images/post/luckiest-leaders.jpeg"
+description: You are the leaders who are going to shape the future. You live in a
+  world moving fast and you have the chance to see the change you want to bring happen
+  as fast.
+date: 2021-03-13T00:00:00.000+00:00
+image: images/post/luckiest-leaders.jpeg
+categories:
+- Other
+tags:
+- Experiment
+- Change
+- Future
 
 ---
 You are the leaders who are going to shape the future. Or be defeated by it. You can shape the future and see the results of your work in a short timespan. You don’t have to wait years and years to see the change you started, finally take place. You live in a world moving fast and you have the chance to see the change you want to bring happen as fast. How lucky you are.
