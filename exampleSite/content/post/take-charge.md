@@ -6,6 +6,10 @@ description: Too often I dropped very interesting opportunities because they had
   that didn't fit with my ethics. Apparently the right choice. However...
 date: 2021-02-27T00:00:00.000+00:00
 image: images/post/red-or-bue-pill.jpg
+tags:
+- Change
+- Choice
+- Action
 
 ---
 Several times in my career I had to take a decision about a very interesting business or job opportunity, which had some ethical downside. Should I take it or should I walk away? I consistently made what I considered to be the right choice, that is, stay ethical and walk away.
