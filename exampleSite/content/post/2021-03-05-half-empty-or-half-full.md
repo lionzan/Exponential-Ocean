@@ -5,7 +5,12 @@ title: Half-Empty or Half-Full?
 description: I've always questioned this statement because I find it very limiting...
   Why, you'll ask?
 date: 2021-03-05T00:00:00.000+00:00
-image: "images/post/astra-hamburg-210305.jpg"
+image: images/post/astra-hamburg-210305.jpg
+categories:
+- Achieving Greatness
+tags:
+- Action
+- Choice
 
 ---
 Sure, if you have half-a-glass of beer you can choose whether you want to look at it as half-empty or half-full. And your words will determine your worldview. The half-full perspective is much more empowering and sets in motion a chain of good thoughts...
