@@ -29,11 +29,11 @@ The most effective leaders go even further. They experiment with the present and
 
 You can define the future. Yet most likely it will not be the future that you envisioned in the first place. You will have had the inner strength to let go of your beliefs when they were proven wrong by reality. And learned from reality instead, to create a future beyond imagination.
 
-🌊🌊🌊
+***
 
 I work with **CEOs, philanthropists, startup founders and great organisations** to impact Ocean Sustainability and Decarbonisation at scale. If you want to **10x your impact on Ocean Sustainability and Decarbonisation** get in touch on: [leonardo@startupwharf.com](mailto:leonardo@startupwharf.com)
 
-![](images/post/luckiest-leaders.jpeg)
+***
 
 Photo by [Enzo Tommasi](https://unsplash.com/@11x11?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](/s/photos/painting?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
