@@ -3,11 +3,15 @@ timeToRead: 2
 author: Leonardo Zangrando
 title: What is Your Internal Beacon?
 date: 2021-03-28T23:00:00.000+00:00
-image: "images/post/beacon.jpg"
-author: Leonardo Zangrando
+image: images/post/beacon.jpg
 description: A clear End Result that guides us as a beacon is essential to achieve
   something in life. Without knowing where you want to go, it's very difficult to
   get anywhere!
+categories:
+- Achieving Greatness
+tags:
+- Beacon
+- End Result
 
 ---
 A clear End Result that guides us as a beacon is essential to achieve something in life. Without knowing where you want to go, it's very difficult to get anywhere!
