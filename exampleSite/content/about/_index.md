@@ -1,6 +1,5 @@
 ---
-title: Consultant, Advisor and Coach helping CEOs, Entrepreneurs and Philanthropists
-  multiply their personal impact on Ocean Sustainability
+title: Ocean Impact Coach
 image: images/hero-image-wide.jpg
 description: This is meta description.
 
