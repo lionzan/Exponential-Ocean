@@ -1,7 +1,7 @@
 ---
 title: Consultant, Advisor and Coach helping CEOs, Entrepreneurs and Philanthropists
   multiply their personal impact on Ocean Sustainability
-image: images/google-profile-picture.png
+image: images/hero-image.jpg
 description: This is meta description.
 
 ---
