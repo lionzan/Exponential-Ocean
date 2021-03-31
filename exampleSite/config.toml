@@ -24,8 +24,8 @@ name = "Contact"
 url = "contact"
 weight = 6
 [[menu.main]]
-name = "in Ocean Sustainability"
-url = "categories/ocean-sustainability/"
+name = "in Ocean Impact"
+url = "categories/ocean-impact/"
 weight = 5
 [[menu.main]]
 name = "About"
