@@ -1,6 +1,6 @@
 ---
 title: Let's Talk About You
-image: images/google-profile-picture.png
+image: images/you-hero-image.jpg
 description: This is meta description.
 
 ---
