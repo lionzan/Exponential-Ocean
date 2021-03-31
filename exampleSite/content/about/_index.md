@@ -4,13 +4,13 @@ image: images/hero-image-wide.jpg
 description: This is meta description.
 
 ---
-I am a Consultant, Advisor and Coach with a passion for the Ocean and I help CEOs, Entrepreneurs, Philanthropists and Powerful People multiply their personal impact on Ocean Sustainability and Decarbonisation. [Powerful People](you) for me are people who think bigger that themselves and feel they want to leave a mark on life. These are my preferred clients. I help them
+I am a Consultant, Advisor and Coach with a passion for the Ocean and I help CEOs, Entrepreneurs, Philanthropists and Powerful People multiply their personal impact on Ocean Sustainability and Decarbonisation. [Powerful People](you) are people who **think bigger that themselves** and want to **leave a mark on life**. These are my preferred clients! I help them
 
 * gain **clarity of intentions**
 * discover their **unique individual approach**
 * uncover their **power to multiply their impact**
 
-I work **One-to-One** with individual clients and run **Sustainability Mastermind Groups**, with **integrity**, **transparency** and **out-of-the-box thinking**, to help them achieve exponential impact on ocean sustainability. 
+I work **One-to-One** with individual clients and run **Sustainability Mastermind Groups**, with **integrity**, **transparency** and **out-of-the-box thinking**, to help them achieve exponential impact on ocean sustainability.
 
 ## Who is Leonardo
 
