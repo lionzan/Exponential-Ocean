@@ -4,7 +4,7 @@ image: images/hero-image-wide.jpg
 description: This is meta description.
 
 ---
-I am a Consultant, Advisor and Coach with a passion for the Ocean and I help CEOs, Entrepreneurs, Philanthropists and Powerful People multiply their personal impact on Ocean Sustainability and Decarbonisation. [Powerful People](you) are people who **think bigger that themselves** and want to **leave a mark on life**. These are my preferred clients! I help them
+I am a Consultant, Advisor and Coach with a passion for the Ocean and I help CEOs, Entrepreneurs, Philanthropists and Powerful People multiply their personal impact on Ocean Sustainability and Decarbonisation. [Powerful People](/you) are people who **think bigger that themselves** and want to **leave a mark on life**. These are my preferred clients! I help them
 
 * gain **clarity of intentions**
 * discover their **unique individual approach**
