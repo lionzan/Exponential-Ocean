@@ -1,6 +1,6 @@
 ---
 title: Let's Talk About You
-image: images/you-hero-image.jpg
+image: images/you-hero-image.jpeg
 description: This is meta description.
 
 ---
