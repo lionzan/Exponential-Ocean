@@ -33,3 +33,7 @@
     overflow: hidden;
     position: relative;
 }
+
+.ul {
+    line-height: 1.7;
+}
