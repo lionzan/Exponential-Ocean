@@ -1,7 +1,9 @@
 {{ define "main" }}
 
 <section class="section-sm pb-0 bg-light hero-image">
-  <img src="/images/hero image.jpg" class="img-fluid w-100" alt="Leonardo Zangrando">
+  {{ with .Params.image }}
+    <img src="{{ . | absURL }}" alt="You the hero" class="img-fluid w-100">
+  {{ end }}
   <div class="container">
     <div class="row hero-image">
       <div class="col-lg-8 mx-auto text-center">
