@@ -2,9 +2,14 @@
 timeToRead: 1
 author: Leonardo Zangrando
 title: Build a Legacy, it's the Only Thing That Remains
-description: Last week a friend of mine died in a road accident. She was an Ocean lover.
-date: 2021-03-15T00:00:00+00:00
-image: "images/post/shimrit-mourn.jpeg"
+description: Last week a friend of mine died in a road accident. She was an Ocean
+  lover.
+date: 2021-03-15T00:00:00.000+00:00
+image: images/post/shimrit-mourn.jpeg
+tags:
+- Mission
+- Inspiring
+- Legacy
 
 ---
 Last week a friend of mine died in a road accident. Shimrit was an Ocean lover and co-founder of [ECOncrete](https://econcretetech.com/), an innovative startup in Ocean Sustainability.
