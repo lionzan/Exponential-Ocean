@@ -2,9 +2,14 @@
 timeToRead: 4
 author: Leonardo Zangrando
 title: 5 + 2 "Business Models" for Your Life
-description: What is that you want to do; how do you want to achieve it. You have 7 choices...
+description: What is that you want to do; how do you want to achieve it. You have
+  7 choices...
 date: 2021-02-13T00:00:00.000+00:00
-image: "images/post/seven-magic-mountains-210213.jpg"
+image: images/post/seven-magic-mountains-210213.jpg
+tags:
+- Choice
+- Clarity
+- Mission
 
 ---
 In our society money is the most efficient way to exchange value and to buy things. But we have to make money if we want to be able to spend it. We can decide to do this in a number of ways, depending on our inclinations and aspirations. I have identified 5 of these. Moreover there is a couple of ways we can decide to play outside the system instead of within.
