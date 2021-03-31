@@ -10,7 +10,7 @@ I am a Consultant, Advisor and Coach with a passion for the Ocean and I help CEO
 * discover their **unique individual approach**
 * uncover their **power to multiply their impact**
 
-I work **One-to-One** with individual clients and run **Sustainability Mastermind Groups**, with **integrity**, **transparency** and **out-of-the-box thinking**, to help them achieve exponential impact on ocean sustainability.
+I work **One-to-One** with individual clients and run **Sustainability Mastermind Groups**, with **integrity**, **transparency** and **out-of-the-box thinking**, to help you achieve an exponential impact on Ocean sustainability.
 
 ## Who is Leonardo
 
@@ -24,7 +24,7 @@ I have repeatedly been a trailblazer in adopting technical innovation, process i
 * I was the first to bring the Lean Startup concepts to Europe and launched a Lean Startup entrepreneurship course in parallel with the first similar course by Steve Blank in Silicon Valley.
 * I turned around complex operations in a container terminal running 24/7 by successfully changing the infrastructure, tools and operating model on the go.
 
-### A Curious Creative Thinker With a Bias for Action
+#### A Curious Creative Thinker With a Bias for Action
 
 When I was a child I used to read a lot and asked millions of why and how questions. I was always thinking how to make things. As a pastime with my cousins, we would design and build new board games for us to play when we got tired of the existing ones. I always kept my hands dirty by inventing and making objects using wood, steel, aluminium. The emotion of seeing an object that I envisioned, take shape under my hands is indescribable. The joy of using it day after day is ineffable.
 
