@@ -6,6 +6,11 @@
     min-height: unset;
 }
 
+.hero-image {
+    position: relative;
+    overflow: hidden;
+}
+
 .w-100 {
     width: unset;
 }
