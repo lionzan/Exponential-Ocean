@@ -44,3 +44,5 @@ fields:
   config:
     required: false
   label: youtube handle
+pages:
+- exampleSite/content/post/what-alternatives-to-fuel-for-propulsion-in-shipping-1.md
