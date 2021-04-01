@@ -6,7 +6,7 @@ description: This is meta description.
 ---
 I am a Consultant, Advisor and Coach with a passion for the Ocean.
 
-I help CEOs, Entrepreneurs, Philanthropists and Powerful People multiply their personal impact on Ocean Sustainability and Decarbonisation. 
+I help CEOs, Entrepreneurs, Philanthropists and Powerful People multiply their personal impact on Ocean Sustainability and Decarbonisation.
 
 [Powerful People](/you) are people who **think bigger that themselves** and want to **leave a mark on life**. These are my preferred clients! I help them
 
@@ -38,3 +38,7 @@ The few times in my career when I chose money over passion I paid a hefty price.
 
 * I want to achieve an exponential impact on Ocean Sustainability and Decarbonisation
 * I want to sail solo on a route that no-one ever sailed before...
+
+  ***
+
+Waves Image by [Axel Antas-Bergkvist](https://unsplash.com/@aabergkvist?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/big-waves?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
