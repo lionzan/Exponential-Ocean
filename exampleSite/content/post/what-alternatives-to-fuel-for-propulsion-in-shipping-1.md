@@ -3,7 +3,6 @@ author = "Leonardo Zangrando"
 categories = ["Ocean Impact"]
 date = 2021-03-31T23:00:00Z
 description = ""
-draft = true
 image = ""
 tags = ["10x", "Decarbonisation", "Sustainability", "Ocean"]
 title = "What Alternatives to Fuel for Propulsion in Shipping? #1"
