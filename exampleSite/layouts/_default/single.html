@@ -4,7 +4,9 @@
   <div class="container-fluid">
     <div class="post">
       {{ if .Params.Youtube_handle }}
-        {{< youtube id="{{ .Params.Youtube_handle }}" title="{{ .Title }}" >}}
+        <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+          <iframe src="https://www.youtube.com/embed/{{ .Params.Youtube_handle }}?autoplay=1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="{{ .Title }}"></iframe>
+        </div>
       {{ else }}
       <img src="{{ .Params.Image | absURL }}" class="img-fluid w-100" alt="{{ .Title }}">
       <div class="post-content">
