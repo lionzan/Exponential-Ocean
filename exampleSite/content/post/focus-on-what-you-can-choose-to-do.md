@@ -5,7 +5,7 @@ date = 2021-03-30T23:00:00Z
 description = ""
 image = ""
 tags = ["WhatCanIDo", "Sustainability", "Ocean", "10x"]
-title = "Focus on What You Can **Choose** to Do"
+title = "Focus on What You Can CHOOSE to Do"
 youtube_handle = "vpzjZJMzRpc"
 
 +++
