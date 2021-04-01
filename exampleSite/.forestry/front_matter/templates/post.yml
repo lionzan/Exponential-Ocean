@@ -12,6 +12,7 @@ fields:
   config:
     display_utc: true
     date_format: DD/MM/YYYY
+    time_format: h:mm
 - type: file
   name: image
   label: image
