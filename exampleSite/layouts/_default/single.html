@@ -3,14 +3,18 @@
 <section>
   <div class="container-fluid">
     <div class="post">
+      {{ if .Params.youtube-handle }}
+        {{< youtube id="{{ .Params.youtube-handle }}" title="{{ .Title }}" >}}
+      {{ else }}
       <img src="{{ .Params.Image | absURL }}" class="img-fluid w-100" alt="{{ .Title }}">
       <div class="post-content">
         <div class="post-date">
           <span>{{ .PublishDate.Format "02" }}</span>
           <span>{{ .PublishDate.Format "Jan" }}</span>
         </div>
-        <h2 class="post-title">Title {{ .Title }}</h2>
+        <h2 class="post-title">{{ .Title }}</h2>
       </div>
+      {{ end }}
     </div>
   </div>
 </section>
