@@ -12,7 +12,7 @@ categories:
 tags:
 - Beacon
 - End Result
-youtube_handle: ''
+youtube_handle: 2eWfpRTnNOg
 
 ---
 A clear End Result that guides us as a beacon is essential to achieve something in life. Without knowing where you want to go, it's very difficult to get anywhere!
