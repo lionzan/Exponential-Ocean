@@ -4,6 +4,7 @@
   <div class="container-fluid">
     <div class="post">
       {{ if .Params.youtube-handle }}
+        <h2 class="post-title">YouTube</h2>
       {{ else }}
       <img src="{{ .Params.Image | absURL }}" class="img-fluid w-100" alt="{{ .Title }}">
       <div class="post-content">
@@ -13,6 +14,7 @@
         </div>
         <h2 class="post-title">Title {{ .Title }}</h2>
       </div>
+      {{ end }}
     </div>
   </div>
 </section>
