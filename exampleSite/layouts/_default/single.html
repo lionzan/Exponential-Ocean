@@ -3,8 +3,8 @@
 <section>
   <div class="container-fluid">
     <div class="post">
-      {{ if .Params.Youtube }}
-        {{< youtube id="{{ .Params.Youtube }}" title="{{ .Title }}" >}}
+      {{ if .Params.Youtube_handle }}
+        {{< youtube id="{{ .Params.Youtube_handle }}" title="{{ .Title }}" >}}
       {{ else }}
       <img src="{{ .Params.Image | absURL }}" class="img-fluid w-100" alt="{{ .Title }}">
       <div class="post-content">
