@@ -1,6 +1,6 @@
 +++
 author = "Leonardo Zangrando"
-categories = ["Ocean Impact"]
+categories = ["Impact"]
 date = 2021-04-01T12:00:00Z
 description = ""
 image = "/images/alternatives-for-propulsion.jpeg"
