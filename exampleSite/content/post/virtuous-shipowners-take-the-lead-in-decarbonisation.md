@@ -1,6 +1,6 @@
 +++
 author = "Leonardo Zangrando"
-categories = ["Ocean Impact"]
+categories = ["Impact"]
 date = 2021-03-25T15:43:29Z
 description = ""
 image = "/images/virtuous-shipowners.jpeg"
