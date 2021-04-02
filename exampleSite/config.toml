@@ -39,7 +39,7 @@ weight = 6
 home = ["HTML", "RSS", "json"]
 [params]
 author = "Leonardo Zangrando"
-contact_form_action = "#"
+contact_form_action = "https://docs.google.com/forms/u/2/d/e/1FAIpQLSf3I55AFqkvHrOrEmQNgrs5eBycJbYAfHlr6Ik5oquS8mHlBA/formResponse"
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
 custom_css = ["css/foo.css"]
 description = "This is meta description"
