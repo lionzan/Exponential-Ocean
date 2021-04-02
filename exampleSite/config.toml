@@ -1,7 +1,7 @@
 baseURL = "https://leonardo.zangrando.com"
 disqusShortname = ""
 heroImage = "images/wave-or-ocean.jpeg"
-heroQuote = "“You can either see yourself as a wave in the Ocean  or you can see yourself as the Ocean.”  – Oprah Winfrey"
+heroQuote = "_“You can either see yourself as a wave in the Ocean, or you can see yourself as the Ocean.”_  – Oprah Winfrey"
 languageCode = "en-uk"
 languageName = "En"
 paginate = "5"
