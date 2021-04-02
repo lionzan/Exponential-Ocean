@@ -1,7 +1,5 @@
 baseURL = "https://leonardo.zangrando.com"
 disqusShortname = ""
-heroImage = "images/wave-or-ocean.jpeg"
-heroQuote = "_“You can either see yourself as a wave in the Ocean, or you can see yourself as the Ocean.”_  – Oprah Winfrey"
 languageCode = "en-uk"
 languageName = "En"
 paginate = "5"
@@ -33,6 +31,8 @@ weight = 1
 home = ["HTML", "RSS", "json"]
 [params]
 author = "Leonardo Zangrando"
+heroImage = "images/wave-or-ocean.jpeg"
+heroQuote = "_“You can either see yourself as a wave in the Ocean, or you can see yourself as the Ocean.”_  – Oprah Winfrey"
 contact_form_action = "https://docs.google.com/forms/u/2/d/e/1FAIpQLSf3I55AFqkvHrOrEmQNgrs5eBycJbYAfHlr6Ik5oquS8mHlBA/formResponse"
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
 custom_css = ["css/foo.css"]
