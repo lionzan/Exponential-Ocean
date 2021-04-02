@@ -4,7 +4,7 @@ categories = ["Achieving Greatness"]
 date = 2021-03-27T12:00:00Z
 description = ""
 image = "/images/ambitious-goals.jpeg"
-tags = ["Ambitious", "Goals", "WhatCanIDo", "10x"]
+tags = ["Video", "Ambitious", "Goals", "WhatCanIDo", "10x"]
 title = "Don't Be Shy Set Ambitious Goals"
 youtube_handle = "UMBqaSvGJ3U"
 
