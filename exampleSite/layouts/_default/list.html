@@ -16,11 +16,7 @@
       {{ if eq $index 0}}
       <div class="col-12 mb-4">
         <div class="post">
-          {{ if .Params.Youtube_handle }}
-          <img src="https://i.ytimg.com/vi/{{ .Params.Youtube_handle }}/maxresdefault.jpg" class="img-fluid w-100" alt="{{ .Title }}">
-          {{ else }}
           <img src="{{ .Params.Image | absURL }}" class="img-fluid w-100" alt="{{ .Title }}">
-          {{ end }}          
           <div class="post-content">
             <div class="post-date">
               <span>{{ .PublishDate.Format "02" }}</span>
@@ -38,11 +34,7 @@
       {{ else }}
       <div class="col-md-6 mb-4">
         <div class="post post-sm">
-          {{ if .Params.Youtube_handle }}
-          <img src="https://i.ytimg.com/vi/{{ .Params.Youtube_handle }}/maxresdefault.jpg" class="img-fluid w-100" alt="{{ .Title }}">
-          {{ else }}
           <img src="{{ .Params.Image | absURL }}" class="img-fluid w-100" alt="{{ .Title }}">
-          {{ end }}          
           <div class="post-content">
             <div class="post-date">
               <span>{{ .PublishDate.Format "02" }}</span>
