@@ -7,7 +7,7 @@ description: I've always questioned this statement because I find it very limiti
 date: 2021-03-05T00:00:00.000+00:00
 image: images/post/astra-hamburg-210305.jpg
 categories:
-- Achieving Greatness
+- Greatness
 tags:
 - Action
 - Choice
