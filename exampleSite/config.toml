@@ -5,6 +5,8 @@ languageName = "En"
 paginate = "5"
 theme = "persian"
 title = "Sustainability Impact Coach"
+heroImage = ""
+heroQuote =""
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
