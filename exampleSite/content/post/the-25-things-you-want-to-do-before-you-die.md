@@ -11,6 +11,8 @@ tags:
 - End Result
 - Objectives
 - Mission
+categories:
+- Greatness
 
 ---
 If you want to achieve anything, you need first to have clear what is that you want to achieve, as I already mentioned in [another post](/post/how-to-materialise-the-things-you-need-to-achieve-your-objective/). But **what is that you want to achieve**?
