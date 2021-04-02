@@ -15,6 +15,8 @@ tags:
 youtube_handle: ''
 
 ---
+{{<youtube id="sSzZzLM__g8">}}
+
 A clear End Result that guides us as a beacon is essential to achieve something in life. Without knowing where you want to go, it's very difficult to get anywhere!
 
 Your End Result is what you are willing to do for its own sake. Not because you need to or have to. Not because you respond to your fears. Just something that you want to do for the sake of it. Use it as a beacon in all you do!
