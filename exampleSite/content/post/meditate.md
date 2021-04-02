@@ -1,13 +1,14 @@
 ---
 timeToRead: 2
-author: ''
+author: Leonardo Zangrando
 title: Meditate!
 description: ''
-date:
-image: ''
+date: 2021-04-01T00:00:00+00:00
+image: "/images/meditate.jpeg"
 draft: true
 
 ---
+
 TM/Ayurvedic – empty mind (paid)
 
 Advanced Yoga Practices – empty mind (free, online)
