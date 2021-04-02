@@ -1,17 +1,11 @@
 {{ define "main" }}
 
-<section class="section pt-0">
-  <div class="container-fluid">
-    <div class="row">
-      <div class="bg-light hero-banner col-12 mb-4">
-        <img src="{{ .Site.Params.HeroImage | absURL }}" alt="{{.Site.Title}}" class="img-fluid w-100">
-        <div class="container">
-          <div class="row hero-image">
-            <div class="col-lg-8 mx-auto text-center">
-              <h1 class="text-center text-white">{{.Site.Params.HeroQuote | markdownify}}</h1>
-            </div>
-          </div>
-        </div>
+<section class="bg-light hero-banner">
+  <img src="{{ .Site.Params.HeroImage | absURL }}" alt="{{.Site.Title}}" class="img-fluid w-100">
+  <div class="container">
+    <div class="row hero-image">
+      <div class="col-lg-8 mx-auto text-center">
+        <h1 class="text-center text-white">{{.Site.Params.HeroQuote | markdownify}}</h1>
       </div>
     </div>
   </div>
@@ -20,6 +14,9 @@
 <section class="section pt-0">
   <div class="container-fluid">
     <div class="row">
+      <div class="col-12 mb-4">
+        <h1>Thoughts</h1>
+      </div>
       {{ $paginator := .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) }}
       {{ range $index,$elements:= $paginator.Pages }}
       {{ if eq $index 0}}
