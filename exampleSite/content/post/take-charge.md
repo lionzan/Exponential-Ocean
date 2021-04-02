@@ -10,6 +10,8 @@ tags:
 - Change
 - Choice
 - Action
+categories:
+- Greatness
 
 ---
 Several times in my career I had to take a decision about a very interesting business or job opportunity, which had some ethical downside. Should I take it or should I walk away? I consistently made what I considered to be the right choice, that is, stay ethical and walk away.
