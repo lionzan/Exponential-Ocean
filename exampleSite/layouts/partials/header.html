@@ -6,7 +6,7 @@
       <a class="navbar-brand" href="{{ .Site.BaseURL | relLangURL }}">
         {{ if .Site.Params.logo }}
         <div class="logo-box">
-          <img class="img-fluid" src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}">
+          <img class="logo-fluid" src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}">
         </div>
         {{ else }}
           {{.Site.Title}}
