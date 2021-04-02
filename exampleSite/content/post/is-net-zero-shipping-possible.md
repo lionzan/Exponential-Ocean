@@ -1,6 +1,6 @@
 +++
 author = "Leonardo Zangrando"
-categories = ["Ocean Impact"]
+categories = ["Impact"]
 date = 2021-03-29T23:00:00Z
 description = ""
 image = "/images/net-zero-possible.jpeg"
