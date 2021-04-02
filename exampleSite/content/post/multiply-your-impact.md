@@ -11,6 +11,8 @@ tags:
 - Value
 - Impact
 - Leverage
+categories:
+- Impact
 
 ---
 Yesterday I had a breakthrough in a project I have been working on for a while. The objective was a simple sales objective, to reach as many clients as possible with an offer.
