@@ -1,6 +1,6 @@
 +++
 author = "Leonardo Zangrando"
-categories = ["Achieving Greatness"]
+categories = ["Greatness"]
 date = 2021-03-27T12:00:00Z
 description = ""
 image = "/images/ambitious-goals.jpeg"
