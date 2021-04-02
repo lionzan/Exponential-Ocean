@@ -8,7 +8,7 @@ description: A clear End Result that guides us as a beacon is essential to achie
   something in life. Without knowing where you want to go, it's very difficult to
   get anywhere!
 categories:
-- Achieving Greatness
+- Greatness
 tags:
 - Video
 - Beacon
