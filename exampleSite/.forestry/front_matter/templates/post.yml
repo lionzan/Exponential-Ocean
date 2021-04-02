@@ -19,7 +19,7 @@ fields:
 - type: file
   name: image
   label: image
-  default: images/default-image.jpeg
+  default: "/images/default-image.jpeg"
 - type: text
   name: author
   label: author
