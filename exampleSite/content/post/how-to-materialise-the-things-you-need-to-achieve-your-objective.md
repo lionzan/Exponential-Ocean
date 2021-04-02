@@ -10,6 +10,8 @@ tags:
 - Clarity
 - Magic
 - End Result
+categories:
+- Greatness
 
 ---
 Or, "How to materialise the things you need in order to achieve your objective" which in fact looks like magic.
