@@ -1,6 +1,6 @@
 +++
 author = "Leonardo Zangrando"
-categories = ["Ocean Impact", "Achieving Greatness"]
+categories = []
 date = 2021-03-31T23:00:00Z
 description = ""
 image = "/images/what-you-can-choose.jpeg"
