@@ -1,4 +1,4 @@
-baseURL = "https://sustainability-impact-coach.netlify.app"
+baseURL = "https://leonardo.zangrando.com"
 disqusShortname = ""
 languageCode = "en-uk"
 languageName = "En"
@@ -8,7 +8,7 @@ title = "Sustainability Impact Coach"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "Greatness"
+name = "Achieving Greatness"
 url = "categories/achieving-greatness/"
 weight = 4
 [[menu.main]]
@@ -24,7 +24,7 @@ name = "Contact"
 url = "contact"
 weight = 6
 [[menu.main]]
-name = "Impact"
+name = "Ocean Impact"
 url = "categories/ocean-impact/"
 weight = 5
 [[menu.main]]
