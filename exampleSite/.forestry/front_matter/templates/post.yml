@@ -36,9 +36,9 @@ fields:
     source:
       type: simple
     options:
-    - Achieving Greatness
-    - Ocean Impact
-    - Other
+    - Greatness
+    - Impact
+    - " Other"
 - type: list
   name: tags
   label: tags
