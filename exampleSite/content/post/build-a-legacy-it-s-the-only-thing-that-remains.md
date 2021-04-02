@@ -10,6 +10,8 @@ tags:
 - Mission
 - Inspiring
 - Legacy
+categories:
+- Greatness
 
 ---
 Last week a friend of mine died in a road accident. Shimrit was an Ocean lover and co-founder of [ECOncrete](https://econcretetech.com/), an innovative startup in Ocean Sustainability.
