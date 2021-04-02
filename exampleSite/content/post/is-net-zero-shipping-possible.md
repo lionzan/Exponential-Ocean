@@ -4,7 +4,7 @@ categories = ["Ocean Impact"]
 date = 2021-03-29T23:00:00Z
 description = ""
 image = "/images/net-zero-possible.jpeg"
-tags = ["10x", "Decarbonisation", "Sustainability", "Ocean"]
+tags = ["Video", "10x", "Decarbonisation", "Sustainability", "Ocean"]
 title = "Is Net Zero Shipping Possible?"
 youtube_handle = "HtkaMZ-UcA0"
 
