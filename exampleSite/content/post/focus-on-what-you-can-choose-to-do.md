@@ -3,7 +3,7 @@ author = "Leonardo Zangrando"
 categories = ["Ocean Impact", "Achieving Greatness"]
 date = 2021-03-31T23:00:00Z
 description = ""
-image = ""
+image = "/images/what-you-can-choose.jpeg"
 tags = ["WhatCanIDo", "Sustainability", "Ocean", "10x"]
 title = "Focus on What You Can CHOOSE to Do"
 youtube_handle = "vpzjZJMzRpc"
@@ -20,3 +20,7 @@ It is about what **ACTION** I can take to make things change!
 Are you frustrated for not doing enough for Ocean Sustainability and Decarbonisation? Let's have a chat! Find me on LinkedIn at [https://www.linkedin.com/in/leonardozangrando/](https://www.linkedin.com/in/leonardozangrando/ "https://www.linkedin.com/in/leonardozangrando/") or on my Ocean Impact Coaching website at [https://leonardo.zangrando.com](https://leonardo.zangrando.com "https://leonardo.zangrando.com")
 
 \#10xYourImpact #Ocean #Sustainability #whatcanido
+
+***
+
+Photo by [Jametlene Reskp](https://unsplash.com/@reskp?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/choice?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
