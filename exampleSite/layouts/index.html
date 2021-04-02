@@ -1,9 +1,7 @@
 {{ define "main" }}
 
 <section class="bg-light hero-banner">
-  {{ with .Site.Params.HeroImage }}
-    <img src="{{ . | absURL }}" alt="{{.Site.Params.HeroQuote}}" class="img-fluid w-100">
-  {{ end }}
+    <img src="{{ .Site.Params.HeroImage | absURL }}" alt="{{.Site.Title}}" class="img-fluid w-100">
   <div class="container">
     <div class="row hero-image">
       <div class="col-lg-8 mx-auto text-center">
