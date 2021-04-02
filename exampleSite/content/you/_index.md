@@ -12,7 +12,7 @@ You have the drive to do something for Ocean Sustainability, and you feel you're
 
 > You ask yourself, what objective should I choose? How can I make it happen?
 
-I'm here to help you and be with you when you make those life-changing decisions about **what really drives you**, what you could do just for the sake of it, what is your powerful End Result.
+I'm here to help you and be with you when you make those life-changing decisions about **what really drives you**, what you are able to do just for the sake of it, what is your powerful End Result.
 
 I'm here with you when you have to **find your unique voice**, how you want to achieve your end result, what unique actions and path you will follow in the pursuit of your End Result.
 
@@ -22,4 +22,4 @@ Are you with me?
 
 ***
 
-Photo by [Joseph Barrientos](https://unsplash.com/@jbcreate_?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/ocean?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+Photo by [Axel Antas-Bergkvist](https://unsplash.com/@aabergkvist?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
