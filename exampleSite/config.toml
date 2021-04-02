@@ -8,33 +8,25 @@ title = "Sustainability Impact Coach"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "Thoughts"
-url = "/"
-weight = 1
+name = "Greatness"
+url = "categories/greatness/"
+weight = 4
 [[menu.main]]
-name = "About"
-url = "about"
-weight = 2
+name = "Impact"
+url = "categories/impact/"
+weight = 5
 [[menu.main]]
 name = "You"
 url = "you"
 weight = 3
 [[menu.main]]
-name = "Achieving Greatness"
-url = "categories/achieving-greatness/"
-weight = 4
+name = "About"
+url = "about"
+weight = 2
 [[menu.main]]
-name = "Ocean Impact"
-url = "categories/ocean-impact/"
-weight = 5
-[[menu.main]]
-name = "Privacy Policy"
-url = "privacy-policy"
-weight = 7
-[[menu.main]]
-name = "Contact"
-url = "contact"
-weight = 6
+name = "Thoughts"
+url = "/"
+weight = 1
 [outputs]
 home = ["HTML", "RSS", "json"]
 [params]
