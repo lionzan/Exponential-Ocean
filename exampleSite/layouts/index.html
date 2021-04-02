@@ -1,13 +1,13 @@
 {{ define "main" }}
 
 <section class="bg-light hero-banner">
-  {{ with .heroImage }}
-    <img src="{{ . | absURL }}" alt="{{.Title}}" class="img-fluid w-100">
+  {{ with .Site.Params.heroImage }}
+    <img src="{{ . | absURL }}" alt="{{.Site.Params.Title}}" class="img-fluid w-100">
   {{ end }}
   <div class="container">
     <div class="row hero-image">
       <div class="col-lg-8 mx-auto text-center">
-        <h1 class="text-center text-white">{{.heroQuote | markdownify}}</h1>
+        <h1 class="text-center text-white">{{.Site.Params.heroQuote | markdownify}}</h1>
       </div>
     </div>
   </div>
