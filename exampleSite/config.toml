@@ -8,7 +8,7 @@ title = "Sustainability Impact Coach"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "Achieving Greatness"
+name = "Greatness"
 url = "categories/achieving-greatness/"
 weight = 4
 [[menu.main]]
@@ -24,7 +24,7 @@ name = "Contact"
 url = "contact"
 weight = 6
 [[menu.main]]
-name = "Ocean Impact"
+name = "Impact"
 url = "categories/ocean-impact/"
 weight = 5
 [[menu.main]]
