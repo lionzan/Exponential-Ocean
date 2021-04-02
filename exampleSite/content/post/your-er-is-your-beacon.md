@@ -27,7 +27,7 @@ It feels like you are creating these opportunities. In a sense yes, but don't be
 
 What is your beacon?
 
-🌊🌊🌊
+∼≈∼≈∼
 
 I am a changemaker helping **CEOs, entrepreneurs, philanthropists and great organisations** achieve an exponential impact on Ocean Sustainability and Decarbonisation, acting as a **trusted advisor, consultant, coach**.
 
