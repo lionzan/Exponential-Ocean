@@ -10,6 +10,8 @@ tags:
 - Choice
 - Clarity
 - Mission
+categories:
+- Greatness
 
 ---
 In our society money is the most efficient way to exchange value and to buy things. But we have to make money if we want to be able to spend it. We can decide to do this in a number of ways, depending on our inclinations and aspirations. I have identified 5 of these. Moreover there is a couple of ways we can decide to play outside the system instead of within.
