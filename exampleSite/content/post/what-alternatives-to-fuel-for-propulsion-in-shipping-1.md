@@ -2,7 +2,7 @@
 author = "Leonardo Zangrando"
 categories = ["Impact"]
 date = 2021-04-01T12:00:00Z
-description = ""
+description = "What alternatives to fuel propulsion exist? Which type of energy is available for free on the Ocean? Solar? Sure. Any other idea?  Exactly it's #Wind!"
 image = "/images/alternatives-for-propulsion.jpeg"
 tags = ["Video", "10x", "Decarbonisation", "Sustainability", "Ocean"]
 title = "What Alternatives to Fuel for Propulsion in Shipping? #1"
