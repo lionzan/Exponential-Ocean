@@ -4,7 +4,7 @@ categories = ["Ocean Impact", "Achieving Greatness"]
 date = 2021-03-31T23:00:00Z
 description = ""
 image = "/images/what-you-can-choose.jpeg"
-tags = ["Video", "WhatCanIDo", "Sustainability", "Ocean", "10x"]
+tags = ["Choice", "Video", "WhatCanIDo", "10x"]
 title = "Focus on What You Can CHOOSE to Do"
 youtube_handle = "vpzjZJMzRpc"
 
