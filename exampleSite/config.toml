@@ -6,7 +6,7 @@ languageCode = "en-uk"
 languageName = "En"
 paginate = "5"
 theme = "persian"
-title = "Sustainability Impact Coach"
+title = "Ocean Impact Coach"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
