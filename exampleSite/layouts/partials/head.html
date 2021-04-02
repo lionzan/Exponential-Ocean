@@ -21,7 +21,7 @@ AUTHOR WEBSITE: https://leonardo.zangrando.com
   <meta property="og:title" content="{{ .Title }}">
   <meta property="og:description" content="{{ with .Params.Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
   <meta property="og:image" content="{{ with .Params.heroImage }}{{ . }}{{ else }}{{ with .Site.Params.heroImage }}{{ . }}{{ end }}{{ end }}">
-  <meta property="og:url" content="{{ with .Site.baseURL }}{{ . }}{{ end }}">
+  <meta property="og:url" content="{{ with .Site.BaseURL }}{{ . }}{{ end }}">
   <meta name="twitter:card" content="summary_large_image">
 
   {{ "<!-- plugins -->" | safeHTML }}
