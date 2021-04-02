@@ -1,12 +1,12 @@
 baseURL = "https://leonardo.zangrando.com"
 disqusShortname = ""
+heroImage = "images/wave-or-ocean.jpeg"
+heroQuote = "“You can either see yourself as a wave in the Ocean  or you can see yourself as the Ocean.”  – Oprah Winfrey"
 languageCode = "en-uk"
 languageName = "En"
 paginate = "5"
 theme = "persian"
 title = "Sustainability Impact Coach"
-heroImage = ""
-heroQuote =""
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
