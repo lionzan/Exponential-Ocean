@@ -5,6 +5,8 @@ fields:
 - type: text
   name: title
   label: title
+  config:
+    required: true
 - type: datetime
   name: date
   label: date
@@ -13,6 +15,7 @@ fields:
     display_utc: true
     date_format: DD/MM/YYYY
     time_format: h:mm A ZZ
+    required: true
 - type: file
   name: image
   label: image
