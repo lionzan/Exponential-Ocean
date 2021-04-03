@@ -1,5 +1,5 @@
 ---
-title: Let's Talk About You
+title: Let's Talk About You, a Powerful Ocean Lover
 image: images/you-hero-image.jpeg
 description: You are a Powerful Person with a passion for the Ocean who feels s/he
   is not doing enough for Ocean Sustainability. You could be a CEO, an Entrepreneur,
