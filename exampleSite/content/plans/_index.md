@@ -1,7 +1,8 @@
 ---
 title: Plans
 image: "/images/coral-q-u-i-0g01ui1mqhg-unsplash.jpeg"
-description: Different plans for different needs.
+description: 'I offer both One-to-One programmes and retreats, and Ocean Mastermind
+  programmes for groups of 7 to 15 people. '
 
 ---
 ### What is your ideal Programme?
