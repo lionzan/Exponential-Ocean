@@ -9,9 +9,9 @@ description: 'I offer both One-to-One programmes and retreats, and Ocean Masterm
 
 I offer both One-to-One _Programmes & Retreats_, and Ocean Mastermind Programmes for groups of 7 to 15 people.
 
-If you are looking for a One-to-One programme there are several alternatives including [yearly programmes](#yearly), [short 3 to 6-months programmes](#short) and [individual retreats](#retreats). In our first 2-hour coaching session we will discover the best programme for you and your objectives. From there I will design your individually customised programme and we will start our journey together.
+- If you are looking for a One-to-One programme there are several alternatives including [yearly programmes](#yearly), [short 3 to 6-months programmes](#short) and [individual retreats](#retreats). In our first 2-hour coaching session we will discover the best programme for you and your objectives. From there I will design your individually customised programme and we will start our journey together.
 
-The [Ocean Mastermind Group](#group) programmes for groups of 7 to 15 people run on a rolling basis. Just let me know when you want to join the next group.
+- The [Ocean Mastermind Group](#group) programmes for groups of 7 to 15 people run on a rolling basis. Just let me know when you want to join the next group.
 
 #### Yearly One-to-One Programmes {#yearly}
 
