@@ -4,7 +4,7 @@ image: images/you-hero-image.jpeg
 description: Different plans for different needs.
 
 ---
-### Yearly One-to-One Programmes
+### Yearly One-to-One Programmes {#yearly}
 
 All One-to_One programmes' Planned Calls are done via Zoom calls or equivalent.
 
@@ -12,13 +12,13 @@ All One-to_One programmes' Planned Calls are done via Zoom calls or equivalent.
 |-|------|--------|
 |_Duration_|12 months|12 months|
 |_Planned Zoom Calls_|48 X 2-hr calls, 4 calls/mo.|36 X 2hr calls, 3 calls/mo.|
-|_Other Planned Activities_|includes 2 X Stingray (see [__Individual Retreats__](#Individual_retreats) below), 1 at start, 1 half-way|N.A.|
+|_Other Planned Activities_|includes 2 X Stingray (see [__Individual Retreats__](#retreats) below), 1 at start, 1 half-way|N.A.|
 |_Extra Email_|Always-on “quick- response”, email within 4 work hours|Always-on, email within 8 work hours|
 |_Extra Phone Call_|Always-on “immediate- response”, 15’call within 1 work hours|Always-on “quick- response”, 15’call within 4 work hours|
 |_Extra Zoom Call_|up-to-2-hrs calls on request within 24hrs|N.A.|
 |_Total Price (+VAT)_|£30,000|£10,000|
 
-### Short One-to-One Programmes
+### Short One-to-One Programmes {#Short}
 
 | |__Turtle__|__Seahorse__|
 |-||------|--------|
@@ -30,7 +30,7 @@ All One-to_One programmes' Planned Calls are done via Zoom calls or equivalent.
 |_Extra Zoom Call_|N.A.|N.A.|
 |_Total Price (+VAT)_|£6,000|£3,500|
 
-### Individual Retreats
+### Individual Retreats {#retreats}
 
 | |Stingray|Medusa|
 |-|------|--------|
@@ -38,7 +38,7 @@ All One-to_One programmes' Planned Calls are done via Zoom calls or equivalent.
 |_Planned Activities_|3 X 8hrs. coaching + activities| 1X 8hrs. coaching + activities|
 |_Total Price (+VAT)_|£4,950 excluding travel + accommodation for client & coach|£1,950 excluding travel + accommodation for client & coach|
 
-### Group Programmes
+### Group Programmes {#group}
 
 | |School of Dolphins|Virtual Dolphins|
 |-|------|--------|
