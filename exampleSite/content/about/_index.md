@@ -8,13 +8,13 @@ I am a Consultant, Advisor and Coach with a passion for the Ocean.
 
 I help CEOs, Entrepreneurs, Philanthropists and Powerful People multiply their personal impact on Ocean Sustainability and Decarbonisation.
 
-[Powerful People](/you) are people who **think bigger that themselves** and want to **leave a mark on life**. These are my preferred clients! I help them
+[Powerful People](/you) are people who **think bigger that themselves** and want to **leave a mark on life**. These are my preferred clients, the only ones I choose to work with. I help them
 
-* gain **clarity of intentions**
-* discover their **unique individual approach**
-* uncover their **power to multiply their impact**
+* gain **clarity of their own End Result**
+* discover their **unique individual approach to it**
+* uncover their **power to multiply their Impact**
 
-I work **One-to-One** with individual clients and run **Sustainability Mastermind Groups**, with **integrity**, **transparency** and **out-of-the-box thinking**, to help Powerful People achieve an exponential impact on Ocean sustainability.
+I work [**One-to-One**](plans) with individual clients and run [**Sustainability Mastermind Groups**](plans), with[ **integrity**, **transparency** and **out-of-the-box thinking**](working-together), to help Powerful People achieve an exponential impact on Ocean sustainability.
 
 ## Who is Leonardo
 
