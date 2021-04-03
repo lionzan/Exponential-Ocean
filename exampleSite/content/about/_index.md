@@ -1,13 +1,11 @@
 ---
-title: "<br/><i>Leonardo Zangrando</i><br/>Ocean Impact Coach"
+title: Leonardo Zangrando *Ocean Impact Coach*
 image: images/hero-image-wide.jpg
 description: I work with integrity, transparency and out-of-the-box thinking, to help
   Powerful People achieve an exponential Impact on Ocean sustainability.
 
 ---
-I am a Consultant, Advisor and Coach with a passion for the Ocean.
-
-I help CEOs, Entrepreneurs, Philanthropists and Powerful People multiply their personal impact on Ocean Sustainability and Decarbonisation.
+I am a Consultant, Advisor and Coach with a passion for the Ocean. I help CEOs, Entrepreneurs, Philanthropists and Powerful People multiply their personal impact on Ocean Sustainability and Decarbonisation.
 
 [Powerful People](/you) are people who **think bigger that themselves** and want to **leave a mark on life**. These are my preferred clients, the only ones I choose to work with. I help them
 
