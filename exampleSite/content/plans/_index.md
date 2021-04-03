@@ -21,7 +21,7 @@ All One-to_One programmes' Planned Calls are done via Zoom calls or equivalent.
 ### Short One-to-One Programmes {#Short}
 
 | |__Turtle__|__Seahorse__|
-|-||------|--------|
+|-|------|--------|
 |_Duration_|6 months|3 months|
 |_Planned Zoom Calls_|18 X 2-hr calls, 3 calls/mo.|9 X 2-hr calls, 3 calls/mo.|
 |_Other Planned Activities_|N.A.|N.A.|
