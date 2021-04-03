@@ -4,47 +4,61 @@ image: "/images/coral-q-u-i-0g01ui1mqhg-unsplash.jpeg"
 description: Different plans for different needs.
 
 ---
-### Yearly One-to-One Programmes {#yearly}
+### What is your ideal Programme?
 
-| |__Coral__|__Whale__|
-|-|------|--------|
-|_Duration_|12 months|12 months|
-|_Planned Zoom Calls_|48 X 2-hr calls, 4 calls/mo.|36 X 2hr calls, 3 calls/mo.|
-|_Other Planned Activities_|includes 2 X Stingray (see [__Individual Retreats__](#retreats) below), 1 at start, 1 half-way|N.A.|
-|_Extra Email_|Always-on “quick- response”, email within 4 work hours|Always-on, email within 8 work hours|
-|_Extra Phone Call_|Always-on “immediate- response”, 15’call within 1 work hours|Always-on “quick- response”, 15’call within 4 work hours|
-|_Extra Zoom Call_|up-to-2-hrs calls on request within 24hrs|N.A.|
-|_Total Price (+VAT)_|£30,000|£10,000|
+I offer both One-to-One programmes and retreats, and Ocean Mastermind programmes for groups of 7 to 15 people.
 
-### Short One-to-One Programmes {#Short}
+If you are looking for a One-to-One programme there are several alternatives:
 
-| |__Turtle__|__Seahorse__|
-|-|------|--------|
-|_Duration_|6 months|3 months|
-|_Planned Zoom Calls_|18 X 2-hr calls, 3 calls/mo.|9 X 2-hr calls, 3 calls/mo.|
-|_Other Planned Activities_|N.A.|N.A.|
-|_Extra Email_|Always-on, email within 8 work hours|Always-on, email within 16 work hours|
-|_Extra Phone Call_|N.A.|N.A.|
-|_Extra Zoom Call_|N.A.|N.A.|
-|_Total Price (+VAT)_|£6,000|£3,500|
+- [Yearly Programmes](#yearly)
+- [Short 3 to 6-months Programmes](#short)
+- [Individual Retreats](#retreats)
 
-### Individual Retreats {#retreats}
+However, we will discover the best programme for you and your objectives in our first 2-hour coaching session. From there I will design your individually customised programme and we will start our journey.
 
-| |Stingray|Medusa|
-|-|------|--------|
-|_Duration_|3 days|1 day|
-|_Planned Activities_|3 X 8hrs. coaching + activities| 1X 8hrs. coaching + activities|
-|_Total Price (+VAT)_|£4,950 excluding travel + accommodation for client & coach|£1,950 excluding travel + accommodation for client & coach|
+The [Ocean Mastermind Group](#group) programmes for groups of 7 to 15 people run on a rolling basis. Just let me know when you want to join the next group.
 
-### Group Programmes {#group}
+#### Yearly One-to-One Programmes {#yearly}
 
-| |School of Dolphins|Virtual Dolphins|
-|-|------|--------|
-|_Duration_|3 months|3 months|
-|_Participants_|7 to 15|7 to 15|
-|_Planned Activities_|9 X 2-hr calls, 3 calls/mo.|9 X 2-hr calls, 3 calls/mo.|
-|_Other Planned Activities_|2 X 1-day retreats, 1 at start, 1 at end|N.A.|
-|_Total Price (+VAT)_|£995/participant, excluding travel + accommodation for client & coach|£595/participant|
+|  | Coral | Whale |
+| --- | --- | --- |
+| Duration | 12 months | 12 months |
+| Planned Zoom Calls | 48 X 2-hr calls, 4 calls/mo. | 36 X 2hr calls, 3 calls/mo. |
+| Other Planned Activities | includes 2 X Stingray (see Individual Retreats below), 1 at start, 1 half-way | N.A. |
+| Extra Email | Always-on “quick- response”, email within 4 work hours | Always-on, email within 8 work hours |
+| Extra Phone Call | Always-on “immediate- response”, 15’call within 1 work hours | Always-on “quick- response”, 15’call within 4 work hours |
+| Extra Zoom Call | up-to-2-hrs calls on request within 24hrs | N.A. |
+| Total Price (+VAT) | £30,000 | £10,000 |
+
+#### Short One-to-One Programmes {#Short}
+
+|  | Turtle | Seahorse |
+| --- | --- | --- |
+| Duration | 6 months | 3 months |
+| Planned Zoom Calls | 18 X 2-hr calls, 3 calls/mo. | 9 X 2-hr calls, 3 calls/mo. |
+| Other Planned Activities | N.A. | N.A. |
+| Extra Email | Always-on, email within 8 work hours | Always-on, email within 16 work hours |
+| Extra Phone Call | N.A. | N.A. |
+| Extra Zoom Call | N.A. | N.A. |
+| Total Price (+VAT) | £6,000 | £3,500 |
+
+#### Individual Retreats {#retreats}
+
+|  | Stingray | Medusa |
+| --- | --- | --- |
+| Duration | 3 days | 1 day |
+| Planned Activities | 3 X 8hrs. coaching + activities | 1X 8hrs. coaching + activities |
+| Total Price (+VAT) | £4,950 excluding travel + accommodation for client & coach | £1,950 excluding travel + accommodation for client & coach |
+
+#### Group Mastermind Programmes {#group}
+
+|  | School of Dolphins | Virtual Dolphins |
+| --- | --- | --- |
+| Duration | 3 months | 3 months |
+| Participants | 7 to 15 | 7 to 15 |
+| Planned Activities | 9 X 2-hr calls, 3 calls/mo. | 9 X 2-hr calls, 3 calls/mo. |
+| Other Planned Activities | 2 X 1-day retreats, 1 at start, 1 at end | N.A. |
+| Total Price (+VAT) | £995/participant, excluding travel + accommodation for client & coach | £595/participant |
 
 ***
 
