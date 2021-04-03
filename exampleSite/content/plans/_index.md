@@ -15,7 +15,7 @@ The [Ocean Mastermind Group](#group) programmes for groups of 7 to 15 people run
 
 #### Yearly One-to-One Programmes {#yearly}
 
-|  | Coral | Whale |
+|  | __Coral | Whale__ |
 | --- | --- | --- |
 | Duration | 12 months | 12 months |
 | Planned Zoom Calls | 48 X 2-hr calls, 4 calls/mo. | 36 X 2hr calls, 3 calls/mo. |
@@ -27,7 +27,7 @@ The [Ocean Mastermind Group](#group) programmes for groups of 7 to 15 people run
 
 #### Short One-to-One Programmes {#Short}
 
-|  | Turtle | Seahorse |
+|  | __Turtle | Seahorse__ |
 | --- | --- | --- |
 | Duration | 6 months | 3 months |
 | Planned Zoom Calls | 18 X 2-hr calls, 3 calls/mo. | 9 X 2-hr calls, 3 calls/mo. |
@@ -39,7 +39,7 @@ The [Ocean Mastermind Group](#group) programmes for groups of 7 to 15 people run
 
 #### Individual Retreats {#retreats}
 
-|  | Stingray | Medusa |
+|  | __Stingray | Medusa__ |
 | --- | --- | --- |
 | Duration | 3 days | 1 day |
 | Planned Activities | 3 X 8hrs. coaching + activities | 1X 8hrs. coaching + activities |
@@ -47,7 +47,7 @@ The [Ocean Mastermind Group](#group) programmes for groups of 7 to 15 people run
 
 #### Group Mastermind Programmes {#group}
 
-|  | School of Dolphins | Virtual Dolphins |
+|  | __School of Dolphins | Virtual Dolphins__ |
 | --- | --- | --- |
 | Duration | 3 months | 3 months |
 | Participants | 7 to 15 | 7 to 15 |
