@@ -5,11 +5,11 @@ description: I work with integrity, transparency and out-of-the-box thinking to 
   Powerful People achieve an exponential Impact on Ocean sustainability.
 
 ---
-> ##### I work with **integrity**, **transparency** and **out-of-the-box thinking** to help Powerful People achieve an exponential Impact on Ocean Sustainability.
+> I work with **integrity**, **transparency** and **out-of-the-box thinking** to help Powerful People achieve an exponential Impact on Ocean Sustainability.
 
 ## How We Are Going to Work Together
 
-Every client is different, every interaction is different. I will create the perfect programme for you after knowing you a bit better. To this purpose we start with a 2 hours free coaching session where we come to know each other. 
+Every client is different, every interaction is different, **you are unique**. I will create the perfect programme for you after I get know you better. To this purpose we start with a 2 hours free coaching session where we come to know each other.
 
 It's not just me wanting to know you. You too want to experience a powerful coaching session with me. Both you and I want to see whether we are a good fit, whether there is good chemistry to help you achieve your objective.
 
