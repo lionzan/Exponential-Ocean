@@ -1,6 +1,6 @@
 ---
 title: Plans
-image: images/you-hero-image.jpeg
+image: "/images/coral-q-u-i-0g01ui1mqhg-unsplash.jpeg"
 description: Different plans for different needs.
 
 ---
