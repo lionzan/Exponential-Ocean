@@ -5,15 +5,15 @@ description: I work with integrity, transparency and out-of-the-box thinking to 
   Powerful People achieve an exponential Impact on Ocean sustainability.
 
 ---
-> I work with **integrity**, **transparency** and **out-of-the-box thinking** to help Powerful People achieve an exponential Impact on Ocean Sustainability.
+> ##### I work with **integrity**, **transparency** and **out-of-the-box thinking** to help Powerful People achieve an exponential Impact on Ocean Sustainability.
 
-## How we are going to work together
+## How We Are Going to Work Together
 
-Every client is different, every interaction is different. I will be able to create the perfect programme for you after knowing you a bit better.
+Every client is different, every interaction is different. I will create the perfect programme for you after knowing you a bit better. To this purpose we start with a 2 hours free coaching session where we come to know each other. 
 
-To this purpose we start with a 2 hours free coaching session where we come to know each other. It's not just me wanting to know you. You too want to experience a powerful coaching session with me. Both you and I want to see whether we are a good fit, whether there is good chemistry to help you achieve your objective.
+It's not just me wanting to know you. You too want to experience a powerful coaching session with me. Both you and I want to see whether we are a good fit, whether there is good chemistry to help you achieve your objective.
 
-#### Uncomfortable questions
+#### Uncomfortable Questions
 
 I warn you that I might ask you uncomfortable questions, about things that you hide deep down inside. But don't be alarmed, I will always ask for your permission to dig deep and you will always be in the position to ask me to give you a break.
 
@@ -27,7 +27,7 @@ When you choose the right end result, the one that you really want to achieve, y
 
 But let's not get ahead of ourselves! After our first session you and I will be able to tell whether you want to continue down the exploration or not. And if you'll decide to move ahead I will chart our path toward your greatness.
 
-#### Let me know when you want to start
+#### Let me know when you want to start...
 
 ...just get in touch via email on [leonardo@zangrando.com](mailto:leonardo@zangrando.com)
 
