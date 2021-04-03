@@ -14,7 +14,7 @@ I offer both One-to-One _Programmes & Retreats_, and Ocean Mastermind Programmes
 
 #### Yearly One-to-One Programmes {#yearly}
 
-|  | __Coral | Whale__ |
+|  | __Coral__ | __Whale__ |
 | --- | --- | --- |
 | Duration | 12 months | 12 months |
 | Planned Zoom Calls | 48 X 2-hr calls, 4 calls/mo. | 36 X 2hr calls, 3 calls/mo. |
@@ -26,7 +26,7 @@ I offer both One-to-One _Programmes & Retreats_, and Ocean Mastermind Programmes
 
 #### Short One-to-One Programmes {#Short}
 
-|  | __Turtle | Seahorse__ |
+|  | __Turtle__ | __Seahorse__ |
 | --- | --- | --- |
 | Duration | 6 months | 3 months |
 | Planned Zoom Calls | 18 X 2-hr calls, 3 calls/mo. | 9 X 2-hr calls, 3 calls/mo. |
@@ -38,7 +38,7 @@ I offer both One-to-One _Programmes & Retreats_, and Ocean Mastermind Programmes
 
 #### Individual Retreats {#retreats}
 
-|  | __Stingray | Medusa__ |
+|  | __Stingray__ | __Medusa__ |
 | --- | --- | --- |
 | Duration | 3 days | 1 day |
 | Planned Activities | 3 X 8hrs. coaching + activities | 1X 8hrs. coaching + activities |
@@ -46,7 +46,7 @@ I offer both One-to-One _Programmes & Retreats_, and Ocean Mastermind Programmes
 
 #### Group Mastermind Programmes {#group}
 
-|  | __School of Dolphins | Virtual Dolphins__ |
+|  | __School of Dolphins__ | __Virtual Dolphins__ |
 | --- | --- | --- |
 | Duration | 3 months | 3 months |
 | Participants | 7 to 15 | 7 to 15 |
