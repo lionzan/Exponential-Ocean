@@ -1,6 +1,6 @@
 ---
 title: Working Together
-image: images/you-hero-image.jpeg
+image: "/images/2-dolphins-jonas-von-werne-wn6eybhr2x8-unsplash.jpeg"
 description: How we are going to work together.
 
 ---
