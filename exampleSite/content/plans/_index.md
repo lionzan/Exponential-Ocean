@@ -6,8 +6,6 @@ description: Different plans for different needs.
 ---
 ### Yearly One-to-One Programmes {#yearly}
 
-All One-to_One programmes' Planned Calls are done via Zoom calls or equivalent.
-
 | |__Coral__|__Whale__|
 |-|------|--------|
 |_Duration_|12 months|12 months|
