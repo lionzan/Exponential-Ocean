@@ -24,7 +24,9 @@ When you choose the right end result, the one that you really want to achieve, y
 
 But let's not get ahead of ourselves! After our first session you and I will be able to tell whether you want to continue down the exploration or not. And if you'll decide to move ahead I will chart our path toward your greatness.
 
-Let me know when you want to start! Get in touch via email on [leonardo@zangrando.com](mailto:leonardo@zangrando.com)
+#### Let me know when you want to start
+
+...just get in touch via email on [leonardo@zangrando.com](mailto:leonardo@zangrando.com)
 
 ***
 
