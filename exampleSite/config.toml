@@ -8,13 +8,13 @@ title = "Ocean Impact"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "Greatness"
-url = "categories/greatness/"
-weight = 4
-[[menu.main]]
 name = "Impact"
 url = "categories/impact/"
 weight = 5
+[[menu.main]]
+name = "Greatness"
+url = "categories/greatness/"
+weight = 4
 [[menu.main]]
 name = "You"
 url = "you"
