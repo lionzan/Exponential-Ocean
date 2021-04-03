@@ -8,19 +8,33 @@ title = "Ocean Impact"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
+name = "How?"
+identifier = "how"
+weight = 7
+[[menu.main]]
+name = "Working Together"
+url = "working-together"
+parent = "how"
+weight = 8
+[[menu.main]]
+name = "Programmes"
+url = "plans"
+parent = "how"
+weight = 9
+[[menu.main]]
 name = "Achieving"
 identifier = "achieving"
-weight = 5
+weight = 4
 [[menu.main]]
 name = "Impact"
 url = "categories/impact/"
 parent = "achieving"
-weight = 5
+weight = 6
 [[menu.main]]
 name = "Greatness"
 url = "categories/greatness/"
 parent = "achieving"
-weight = 4
+weight = 5
 [[menu.main]]
 name = "You"
 url = "you"
