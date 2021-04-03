@@ -1,7 +1,8 @@
 ---
 title: Working Together
 image: "/images/2-dolphins-jonas-von-werne-wn6eybhr2x8-unsplash.jpeg"
-description: How we are going to work together.
+description: I work with integrity, transparency and out-of-the-box thinking to help
+  Powerful People achieve an exponential Impact on Ocean sustainability.
 
 ---
 > I work with **integrity**, **transparency** and **out-of-the-box thinking** to help Powerful People achieve an exponential impact on Ocean sustainability.
