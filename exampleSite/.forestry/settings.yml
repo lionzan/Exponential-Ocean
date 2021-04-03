@@ -21,13 +21,21 @@ sections:
   templates:
   - post
 - type: heading
-  label: Others Page
+  label: Other Pages
 - type: document
   path: exampleSite/content/about/_index.md
   label: About
 - type: document
   path: exampleSite/content/you/_index.md
   label: You
+- type: document
+  path: exampleSite/content/working-together/_index.md
+  label: Working Together
+  match: "**/*"
+- type: document
+  path: exampleSite/content/plans/_index.md
+  label: Plans
+  match: "**/*"
 - type: document
   path: exampleSite/content/contact/_index.md
   label: Contact
