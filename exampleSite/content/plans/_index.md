@@ -1,6 +1,7 @@
 ---
 title: Programmes, Retreats, Mastermind Groups
 image: "/images/coral-q-u-i-0g01ui1mqhg-unsplash.jpeg"
+image_credit: Photo by [Q.U.I](https://unsplash.com/@quinguyen?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 description: 'I offer One-to-One Programmes & Retreats, and Ocean Mastermind programmes
   for groups of 7 to 15 people. '
 
