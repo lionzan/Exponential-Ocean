@@ -12,6 +12,7 @@ tags:
 - Action
 categories:
 - Greatness
+image_credit: _Image_ [_CC-BY-SA-4.0 W.carter](https://commons.wikimedia.org/wiki/File:Red_and_blue_pill.jpg)
 
 ---
 Several times in my career I had to take a decision about a very interesting business or job opportunity, which had some ethical downside. Should I take it or should I walk away? I consistently made what I considered to be the right choice, that is, stay ethical and walk away.
@@ -30,8 +31,5 @@ The lesson for me is simple yet powerful. Take charge! If something is wrong in 
 
 I work with **CEOs, philanthropists, startup founders and great organisations** to impact Ocean Sustainability and Decarbonisation at scale. If you want to **10x your impact on Ocean Sustainability and Decarbonisation** get in touch on: [leonardo@startupwharf.com](mailto:leonardo@startupwharf.com)
 
-![this image does not show?](images/post/red-or-bue-pill.jpg "Title: this image does not show?")
-
 _The picture is obviously about Neo's choice in "The Matrix"... live in oblivion or take charge?_
 
-_Image_ [_CC-BY-SA-4.0 W.carter](https://commons.wikimedia.org/wiki/File:Red_and_blue_pill.jpg)
