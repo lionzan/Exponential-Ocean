@@ -27,6 +27,11 @@
     max-width: unset;
 }
 
+.author-img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
 .logo-box {
     width: 160px;
     position: relative;
