@@ -43,7 +43,7 @@ The few times in my career when I chose money over passion I paid a hefty price.
 
 _"I had the privilege of working with Leonardo while he participated in a mentoring partnership through Everwise. His protégé had very unique challenges. Leonardo, as his mentor, was able to provide him with expertise that can only be found in the most authentic and innovative leaders. Leonardo's contagious energy and emotional intelligence make him a valuable asset in the technology industry and beyond. I encourage anyone who has the opportunity to work with Leonardo to take it - he is one of the best!"_
 
-– Stephanie Singer (at the time, Experience manager at Everwise)
+– Stephanie Singer (at the time, Experience Manager at Everwise)
 
 ***
 
