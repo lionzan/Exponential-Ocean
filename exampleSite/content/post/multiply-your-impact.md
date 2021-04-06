@@ -13,6 +13,8 @@ tags:
 - Leverage
 categories:
 - Impact
+image_credit: Photo by [Michael Dziedzic](https://unsplash.com/@lazycreekimages?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+  on [Unsplash](/@lazycreekimages?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 ---
 Yesterday I had a breakthrough in a project I have been working on for a while. The objective was a simple sales objective, to reach as many clients as possible with an offer.
@@ -56,12 +58,8 @@ Be creative, they might hide in plain sight and you might have been considering 
 
 > 10x your impact with Value X Leverage but choose your leverage wisely!
 
-🌊🌊🌊
+---
 
 I am a changemaker helping **CEOs, entrepreneurs, philanthropists and great organisations** achieve an exponential impact on Ocean Sustainability and Decarbonisation, acting as a **trusted advisor, sounding board, consultant**.
 
 If you want to **10x your impact on Ocean Sustainability and Decarbonisation** lets' talk, you can reach me on [leonardo@startupwharf.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=leonardo@startupwharf.com)
-
-![](images/post/leverage.jpeg)
-
-Photo by [Michael Dziedzic](https://unsplash.com/@lazycreekimages?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](/@lazycreekimages?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
