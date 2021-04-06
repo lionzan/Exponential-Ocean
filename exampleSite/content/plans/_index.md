@@ -7,9 +7,9 @@ description: 'I offer One-to-One Programmes & Retreats, and Ocean Mastermind pro
 ---
 ### What is your ideal Programme?
 
-__I offer both programmes for individuals and for groups.__
+**I offer programmes for both individuals and groups.**
 
-If you are looking for a One-to-One programme there are several alternatives including [yearly programmes](#yearly), [short 3 to 6-months programmes](#short) and [focused retreats](#retreats). 
+If you are looking for a One-to-One programme there are several alternatives including [yearly programmes](#yearly), [short 3 to 6-months programmes](#short) and [focused retreats](#retreats).
 
 In our first 2-hour coaching session we will discover the best programme for you and your objectives. From there I will design your individually customised programme and we will start our journey together.
 
@@ -17,7 +17,7 @@ The [Ocean Mastermind Group](#group) programmes for groups of 7 to 15 people run
 
 #### Yearly One-to-One Programmes {#yearly}
 
-|  | __Coral__ | __Whale__ |
+|  | Coral | Whale |
 | --- | --- | --- |
 | Duration | 12 months | 12 months |
 | Planned Zoom Calls | 48 X 2-hr calls, 4 calls/mo. | 36 X 2hr calls, 3 calls/mo. |
@@ -29,7 +29,7 @@ The [Ocean Mastermind Group](#group) programmes for groups of 7 to 15 people run
 
 #### Short One-to-One Programmes {#Short}
 
-|  | __Turtle__ | __Seahorse__ |
+|  | Turtle | Seahorse |
 | --- | --- | --- |
 | Duration | 6 months | 3 months |
 | Planned Zoom Calls | 18 X 2-hr calls, 3 calls/mo. | 9 X 2-hr calls, 3 calls/mo. |
@@ -41,7 +41,7 @@ The [Ocean Mastermind Group](#group) programmes for groups of 7 to 15 people run
 
 #### Individual Retreats {#retreats}
 
-|  | __Stingray__ | __Medusa__ |
+|  | Stingray | Medusa |
 | --- | --- | --- |
 | Duration | 3 days | 1 day |
 | Planned Activities | 3 X 8hrs. coaching + activities | 1X 8hrs. coaching + activities |
@@ -49,7 +49,7 @@ The [Ocean Mastermind Group](#group) programmes for groups of 7 to 15 people run
 
 #### Group Mastermind Programmes {#group}
 
-|  | __School of Dolphins__ | __Virtual Dolphins__ |
+|  | School of Dolphins | Virtual Dolphins |
 | --- | --- | --- |
 | Duration | 3 months | 3 months |
 | Participants | 7 to 15 | 7 to 15 |
