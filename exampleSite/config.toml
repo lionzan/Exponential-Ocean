@@ -66,9 +66,6 @@ link = "https://youtube.com/c/LeonardoZangrando"
 icon="ti-linkedin"
 link = "https://linkedin.com/in/leonardozangrando"
 [[params.social]]
-icon="ti-world"
-link = "https://leonardo.zangrando.com"
-[[params.social]]
 icon="ti-email"
 link = "mailto:leonardo@zangrando.com"
 [params.cookies]
