@@ -4,6 +4,7 @@ categories = ["Greatness"]
 date = 2021-04-06T09:37:56Z
 description = "Who is trying to deflect you from your end result? You should weight very carefully every request you get which is not aligned with it."
 image = "/images/say-no-nadine-shaabana-m_f3f8dgrg-unsplash.jpeg"
+image_credit = "Photo by [Nadine Shaabana](https://unsplash.com/@nadineshaabana?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/push-back?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 tags = ["Choice", "Video", "10x"]
 title = "The Power of NO – part 1"
 youtube_handle = "hLPED4R5x2M"
@@ -18,7 +19,3 @@ This is what Steve Jobs did when he went back to Apple and found a company where
 Are you frustrated for not doing enough for Ocean Sustainability and Decarbonisation? Let's have a chat!
 
 **#10xYourImpact** **#whatcanido**
-
-***
-
-Photo by [Nadine Shaabana](https://unsplash.com/@nadineshaabana?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/push-back?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
