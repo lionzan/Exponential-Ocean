@@ -1,7 +1,8 @@
 ---
 title: Let's Talk About You, a Powerful Ocean Lover
 image: images/you-hero-image.jpeg
-image_credit: Waves Image by [Axel Antas-Bergkvist](https://unsplash.com/@aabergkvist?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/big-waves?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+image_credit: Waves Image by [Axel Antas-Bergkvist](https://unsplash.com/@aabergkvist?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+  on [Unsplash](https://unsplash.com/s/photos/big-waves?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 description: You are a Powerful Person with a passion for the Ocean who feels s/he
   is not doing enough for Ocean Sustainability. You could be a CEO, an Entrepreneur,
   a Philanthropist, or any other person who think bigger that themselves and feel
@@ -22,4 +23,4 @@ I'm here with you when you have to **find your unique voice**, how you want to a
 
 And finally I'm with you when I challenge you to think what you can do to **multiply your impact exponentially**. 10x, 100x, 1,000x bigger. Because I know you are powerful, much more than you dare to think or believe. I'm with you to get over your limiting beliefs, multiply your End Result and achieve the unthinkable. For Ocean Sustainability and for yourself.
 
-Are you with me?
+Are you with me? Get in touch via email on [leonardo@zangrando.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=leonardo@zangrando.com)
