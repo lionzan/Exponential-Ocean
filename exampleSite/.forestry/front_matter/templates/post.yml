@@ -20,6 +20,13 @@ fields:
   name: image
   label: image
   default: "/images/default-image.jpeg"
+- name: image_credit
+  type: text
+  config:
+    required: false
+  label: Image credit
+  default: Waves Image by [Axel Antas-Bergkvist](https://unsplash.com/@aabergkvist?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+    on [Unsplash](https://unsplash.com/s/photos/big-waves?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 - type: text
   name: author
   label: author
