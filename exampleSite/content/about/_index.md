@@ -37,7 +37,3 @@ The few times in my career when I chose money over passion I paid a hefty price.
 
 * I want to achieve an exponential impact on Ocean Sustainability and Decarbonisation
 * I want to sail solo on a route that no-one ever sailed before...
-
-  ***
-
-Waves Image by [Axel Antas-Bergkvist](https://unsplash.com/@aabergkvist?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/big-waves?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
