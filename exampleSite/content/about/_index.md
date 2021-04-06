@@ -41,42 +41,42 @@ The few times in my career when I chose money over passion I paid a hefty price.
 
 #### They Said About Me
 
-I had the privilege of working with Leonardo while he participated in a mentoring partnership through Everwise. His protégé had very unique challenges. Leonardo, as his mentor, was able to provide him with expertise that can only be found in the most authentic and innovative leaders. Leonardo's contagious energy and emotional intelligence make him a valuable asset in the technology industry and beyond. I encourage anyone who has the opportunity to work with Leonardo to take it - he is one of the best!
+_"I had the privilege of working with Leonardo while he participated in a mentoring partnership through Everwise. His protégé had very unique challenges. Leonardo, as his mentor, was able to provide him with expertise that can only be found in the most authentic and innovative leaders. Leonardo's contagious energy and emotional intelligence make him a valuable asset in the technology industry and beyond. I encourage anyone who has the opportunity to work with Leonardo to take it - he is one of the best!"_
 
-– Stephanie Singer (as Experience manager at Everwise)
+– Stephanie Singer (at the time, Experience manager at Everwise)
 
 ***
 
-It was a real pleasure to work with Leonardo recently delivering a 'Food For Thought' talk for the BBC Academy.
+_"It was a real pleasure to work with Leonardo recently delivering a 'Food For Thought' talk for the BBC Academy._
 
-We seek out the most inspirational and exciting people to deliver talks and workshops on thought leadership and change in the digital world to our staff, and Leonardo's vast expertise and enthusiasm for helping teams and organisations harness change and find better ways of working really shone through.
+_We seek out the most inspirational and exciting people to deliver talks and workshops on thought leadership and change in the digital world to our staff, and Leonardo's vast expertise and enthusiasm for helping teams and organisations harness change and find better ways of working really shone through._
 
-I've had some brilliant feedback since and several hundred people have watched his talk on the BBC internal website, as well as several senior managers getting in touch to ask if he can run bespoke sessions with their teams.
+_I've had some brilliant feedback since and several hundred people have watched his talk on the BBC internal website, as well as several senior managers getting in touch to ask if he can run bespoke sessions with their teams._
 
-From initial preparation to final delivery, it was a really collaborative and positive experience to work with Leonardo, and I'd have no hesitation recommending him as a great inspirational speaker for organisations that want to get ahead in a fast changing business environment.
+_From initial preparation to final delivery, it was a really collaborative and positive experience to work with Leonardo, and I'd have no hesitation recommending him as a great inspirational speaker for organisations that want to get ahead in a fast changing business environment._
 
-His insights into how businesses and start-ups are changing and how we can embrace those new ways of working and create a new culture for organisations were particularly timely and inspiring.
+_His insights into how businesses and start-ups are changing and how we can embrace those new ways of working and create a new culture for organisations were particularly timely and inspiring._
 
-I hope to work with Leonardo in the future, and thank him kindly for the effort and energy he put into making this event a success.
+_I hope to work with Leonardo in the future, and thank him kindly for the effort and energy he put into making this event a success."_
 
 – Mel Rodriguez, Founder & Creative Director at Gritty Talent
 
 ***
 
-Leonardo gave an inspiring presentation to BBC delegates at Google Campus, showing us how big organisations can act like start-ups. 'Fail fast, learn fast'
+_"Leonardo gave an inspiring presentation to BBC delegates at Google Campus, showing us how big organisations can act like start-ups. 'Fail fast, learn fast.'"_
 
 – Sue Ellis, Assistant Editor at BBC
 
 ***
 
-Leonardo and I have been working together for 6 months, where he has been coaching me on a personal level to develop myself in areas I want to grow. He has been a great partner in doing so, constantly challenging my current vision and often sharing inspiring thoughts that made me grow my thinking in different directions. If you want to grow your mindset and you're looking for a professional partner to assist you with that, Leonardo is your man.
+_"Leonardo and I have been working together for 6 months, where he has been coaching me on a personal level to develop myself in areas I want to grow. He has been a great partner in doing so, constantly challenging my current vision and often sharing inspiring thoughts that made me grow my thinking in different directions. If you want to grow your mindset and you're looking for a professional partner to assist you with that, Leonardo is your man."_
 
 – Bert Marievoet, Managing founder at Native Nation
 
 ***
 
-I worked with Leonardo when he was the lead Italian trainer for the global roll-out of a hospital selling skills training programme. He received excellent ratings as a trainer and was well-liked by the client.
+_"I worked with Leonardo when he was the lead Italian trainer for the global roll-out of a hospital selling skills training programme. He received excellent ratings as a trainer and was well-liked by the client._
 
-Leonardo's unique strength is that he has both an entrepreneurial spirit and highly analytical mind. He is imaginative, innovative and not afraid of taking risks. But at the same time his rational, analytical side is reassuring. On top of that, his sense of humour and excellent interpersonal skills make hime a real pleasure to work with.
+_Leonardo's unique strength is that he has both an entrepreneurial spirit and highly analytical mind. He is imaginative, innovative and not afraid of taking risks. But at the same time his rational, analytical side is reassuring. On top of that, his sense of humour and excellent interpersonal skills make hime a real pleasure to work with."_
 
-– Mary Kwan, Regional Director Asia Pacific Executive Education at INSEAD
+– Mary Kwan, Regional Director Asia Pacific Executive Education at INSEAD (at the time, Partner at Agalio)
