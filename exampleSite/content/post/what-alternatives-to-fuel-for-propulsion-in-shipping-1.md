@@ -4,6 +4,7 @@ categories = ["Impact"]
 date = 2021-04-01T12:00:00Z
 description = "What alternatives to fuel propulsion exist? Which type of energy is available for free on the Ocean? Solar? Sure. Any other idea?  Exactly it's #Wind!"
 image = "/images/alternatives-for-propulsion.jpeg"
+image_credit = "Photo by [Mila Young](https://unsplash.com/@allisweeell?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/wind?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 tags = ["Video", "10x", "Decarbonisation", "Sustainability", "Ocean"]
 title = "What Alternatives to Fuel for Propulsion in Shipping? #1"
 youtube_handle = "2eWfpRTnNOg"
@@ -20,7 +21,3 @@ Many technologies with different needs and challenges, yet all already available
 Do you want to multiply your impact on Ocean Sustainability and Decarbonisation? Get in touch and let's have a chat!
 
 \#ocean #sustainability #decarbonisation #10xImpact
-
-***
-
-Photo by [Mila Young](https://unsplash.com/@allisweeell?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/wind?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
