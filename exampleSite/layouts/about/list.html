@@ -17,7 +17,7 @@
   <div class="container">
     <div class="col-lg-8 mx-auto">
       <div class="content">{{.Content}}</div>
-      <hl/>
+      <hr>
       <ul class="list-inline social-icons text-center">
         {{ range .Site.Params.Social }}
         <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
