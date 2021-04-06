@@ -39,6 +39,11 @@
           <span><i class="ti-user mr-2"></i><a
               href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}/">{{ .Params.author }}</a></span>
         </div>
+        {{ if .Params.Image_credit }}
+        <div class="col-lg-8 mx-auto">
+          {{ .Params.Image_credit | markdownify }}
+        </div>
+        {{ end }}
       </div>
     </div>
   </div>
