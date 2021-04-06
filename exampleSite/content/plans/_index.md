@@ -56,7 +56,3 @@ If you are interested in Group Programmes, the [Ocean Mastermind Group](#group) 
 | Planned Activities | 9 X 2-hr calls, 3 calls/mo. | 9 X 2-hr calls, 3 calls/mo. |
 | Other Planned Activities | 2 X 1-day retreats, 1 at start, 1 at end | N.A. |
 | Total Price (+VAT) | £995/participant, excluding travel + accommodation for client & coach | £595/participant |
-
-***
-
-Photo by [Axel Antas-Bergkvist](https://unsplash.com/@aabergkvist?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
