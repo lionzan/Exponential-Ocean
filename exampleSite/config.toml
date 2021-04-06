@@ -5,11 +5,18 @@ languageName = "En"
 paginate = "5"
 theme = "persian"
 title = "Ocean Impact"
-[social]
-youtube = "https://youtube.com/c/LeonardoZangrando"
-linkedin = "https://linkedin.com/in/leonardozangrando"
-website = "https://leonardo.zangrando.com"
-email = "mailto:leonardo@zangrando.com"
+[[social]]
+icon = "ti-youtube"
+link = "https://youtube.com/c/LeonardoZangrando"
+[[social]]
+icon="ti-linkedin"
+link = "https://linkedin.com/in/leonardozangrando"
+[[social]]
+icon="ti-world"
+link = "https://leonardo.zangrando.com"
+[[social]]
+icon="ti-email"
+link = "mailto:leonardo@zangrando.com"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
