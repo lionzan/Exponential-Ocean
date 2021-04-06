@@ -77,6 +77,6 @@ _"Leonardo and I have been working together for 6 months, where he has been coac
 
 _"I worked with Leonardo when he was the lead Italian trainer for the global roll-out of a hospital selling skills training programme. He received excellent ratings as a trainer and was well-liked by the client._
 
-_Leonardo's unique strength is that he has both an entrepreneurial spirit and highly analytical mind. He is imaginative, innovative and not afraid of taking risks. But at the same time his rational, analytical side is reassuring. On top of that, his sense of humour and excellent interpersonal skills make hime a real pleasure to work with."_
+_Leonardo's unique strength is that he has both an entrepreneurial spirit and highly analytical mind. He is imaginative, innovative and not afraid of taking risks. But at the same time his rational, analytical side is reassuring. On top of that, his sense of humour and excellent interpersonal skills make him a real pleasure to work with."_
 
 – Mary Kwan, Regional Director Asia Pacific Executive Education at INSEAD (at the time, Partner at Agalio)
