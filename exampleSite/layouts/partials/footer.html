@@ -1,6 +1,11 @@
 <footer class="py-4">
   <div class="container text-center">
     <hr>
+    <ul class="col-lg-8 mx-auto list-inline social-icons text-center">
+      {{ range .Site.Params.Social }}
+      <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
+      {{ end }}
+      </ul>  
     {{ if .Params.Image_credit }}
     <p>{{ .Params.Image_credit | markdownify }}</p>
     {{ end }}
