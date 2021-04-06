@@ -79,3 +79,15 @@ link = "plugins/search/search.js"
 [params.preloader]
 enable = true
 preloader = ""
+[[params.social]]
+icon="ti-youtube"
+link="https://youtube.com/c/LeonardoZangrando"
+[[params.social]]
+icon="ti-linkedin"
+link="https://linkedin.com/in/leonardozangrando"
+[[params.social]]
+icon="ti-world"
+link="https://leonardo.zangrando.com"
+[[params.social]]
+icon="ti-email"
+link="mailto:leonardo@zangrando.com"
