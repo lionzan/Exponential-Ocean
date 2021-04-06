@@ -8,32 +8,32 @@ title = "Ocean Impact"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "How?"
 identifier = "how"
+name = "How?"
 weight = 7
 [[menu.main]]
 name = "Working Together"
-url = "working-together"
 parent = "how"
+url = "working-together"
 weight = 8
 [[menu.main]]
 name = "Programmes"
-url = "plans"
 parent = "how"
+url = "plans"
 weight = 9
 [[menu.main]]
-name = "Achieving"
 identifier = "achieving"
+name = "Achieving"
 weight = 4
 [[menu.main]]
 name = "Impact"
-url = "categories/impact/"
 parent = "achieving"
+url = "categories/impact/"
 weight = 6
 [[menu.main]]
 name = "Greatness"
-url = "categories/greatness/"
 parent = "achieving"
+url = "categories/greatness/"
 weight = 5
 [[menu.main]]
 name = "You"
@@ -52,22 +52,13 @@ home = ["HTML", "RSS", "json"]
 [params]
 author = "Leonardo Zangrando"
 contact_form_action = "https://docs.google.com/forms/u/2/d/e/1FAIpQLSf3I55AFqkvHrOrEmQNgrs5eBycJbYAfHlr6Ik5oquS8mHlBA/formResponse"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "©2021 Leonardo Zangrando, Original Web Design By [Themefisher](https://themefisher.com/) & [Gethugothemes](https://gethugothemes.com/)"
 custom_css = ["css/foo.css"]
 description = "Coaching Powerful People for Ocean Impact. Working with CEOs, Entrepreneurs, Philanthropists and all Powerful People with a passion for the Ocean to multiply exponentially their Impact on Ocean sustainability"
 heroImage = "images/wave-or-ocean.jpeg"
 heroQuote = "_“You can either see yourself as a wave in the Ocean, or you can see yourself as the Ocean.”_  – Oprah Winfrey"
 logo = "images/logo.png"
 search = false
-[[params.social]]
-icon = "ti-youtube"
-link = "https://youtube.com/c/LeonardoZangrando"
-[[params.social]]
-icon="ti-linkedin"
-link = "https://linkedin.com/in/leonardozangrando"
-[[params.social]]
-icon="ti-email"
-link = "mailto:leonardo@zangrando.com"
 [params.cookies]
 enable = false
 expire_days = 2
@@ -88,3 +79,12 @@ link = "plugins/search/search.js"
 [params.preloader]
 enable = true
 preloader = ""
+[[params.social]]
+icon = "ti-youtube"
+link = "https://youtube.com/c/LeonardoZangrando"
+[[params.social]]
+icon = "ti-linkedin"
+link = "https://linkedin.com/in/leonardozangrando"
+[[params.social]]
+icon = "ti-email"
+link = "mailto:leonardo@zangrando.com"
