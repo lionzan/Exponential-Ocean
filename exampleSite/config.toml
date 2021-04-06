@@ -5,18 +5,6 @@ languageName = "En"
 paginate = "5"
 theme = "persian"
 title = "Ocean Impact"
-[[social]]
-icon = "ti-youtube"
-link = "https://youtube.com/c/LeonardoZangrando"
-[[social]]
-icon="ti-linkedin"
-link = "https://linkedin.com/in/leonardozangrando"
-[[social]]
-icon="ti-world"
-link = "https://leonardo.zangrando.com"
-[[social]]
-icon="ti-email"
-link = "mailto:leonardo@zangrando.com"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
@@ -71,6 +59,18 @@ heroImage = "images/wave-or-ocean.jpeg"
 heroQuote = "_“You can either see yourself as a wave in the Ocean, or you can see yourself as the Ocean.”_  – Oprah Winfrey"
 logo = "images/logo.png"
 search = false
+[[params.social]]
+icon = "ti-youtube"
+link = "https://youtube.com/c/LeonardoZangrando"
+[[params.social]]
+icon="ti-linkedin"
+link = "https://linkedin.com/in/leonardozangrando"
+[[params.social]]
+icon="ti-world"
+link = "https://leonardo.zangrando.com"
+[[params.social]]
+icon="ti-email"
+link = "mailto:leonardo@zangrando.com"
 [params.cookies]
 enable = false
 expire_days = 2
