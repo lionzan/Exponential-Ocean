@@ -1,7 +1,7 @@
 <footer class="py-4">
-  <div class="container text-center">
+  <div class="col-lg-8 mx-auto container text-center">
     <hr>
-    <ul class="col-lg-8 mx-auto list-inline social-icons text-center">
+    <ul class="list-inline social-icons">
       {{ range .Site.Params.Social }}
       <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
       {{ end }}
