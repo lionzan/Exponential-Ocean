@@ -6,9 +6,9 @@ description: I work with integrity, transparency and out-of-the-box thinking, to
   Powerful People achieve an exponential Impact on Ocean Sustainability.
 
 ---
-I am a Consultant, Advisor and Coach with a passion for the Ocean. I help CEOs, Entrepreneurs, Philanthropists and Powerful People multiply their personal impact on Ocean Sustainability and Decarbonisation.
+I am a Consultant, Advisor and Coach with a passion for the Ocean. I help CEOs, Entrepreneurs, Philanthropists and Powerful People* multiply their personal impact on Ocean Sustainability.
 
-[Powerful People](you) **think bigger that themselves** and want to **leave a mark on life**. These are my preferred clients, the only ones I choose to work with. I help them
+\*[Powerful People](you) **think bigger that themselves** and want to **leave a mark on life**. These are my preferred clients, the only ones I choose to work with. I help them
 
 * gain **clarity of their own End Result**
 * discover their **unique individual approach to it**
