@@ -1,6 +1,7 @@
 ---
 title: Let's Talk About You, a Powerful Ocean Lover
 image: images/you-hero-image.jpeg
+image_credit: Waves Image by [Axel Antas-Bergkvist](https://unsplash.com/@aabergkvist?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/big-waves?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 description: You are a Powerful Person with a passion for the Ocean who feels s/he
   is not doing enough for Ocean Sustainability. You could be a CEO, an Entrepreneur,
   a Philanthropist, or any other person who think bigger that themselves and feel
