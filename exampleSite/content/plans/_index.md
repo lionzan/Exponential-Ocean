@@ -13,7 +13,7 @@ If you are looking for a One-to-One programme there are several alternatives inc
 
 In our first 2-hour coaching session we will discover the best programme for you and your objectives. From there I will design your individually customised programme and we will start our journey together.
 
-The [Ocean Mastermind Group](#group) programmes for groups of 7 to 15 people run on a rolling basis. Just let me know when you want to join the next group.
+If you are interested in Group Programmes, the [Ocean Mastermind Group](#group) for 7 to 15 people run on a rolling basis. Just let me know when you want to join the next group.
 
 #### Yearly One-to-One Programmes {#yearly}
 
