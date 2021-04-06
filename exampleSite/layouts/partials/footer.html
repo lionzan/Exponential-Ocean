@@ -3,7 +3,12 @@
     {{ if .Params.Image_credit }}
     <p>{{ .Params.Image_credit | markdownify }}</p>
     {{ end }}
+    {{ if .Site.Params.designed_by }}
+    <p>{{ .Site.Params.designed_by | markdownify }}</p>
+    {{ end }}
+    {{ if .Site.Params.copyright }}
     <p>{{ .Site.Params.copyright | markdownify }}</p>
+    {{ end }}
   </div>
 </footer>
 
