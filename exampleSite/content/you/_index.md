@@ -22,7 +22,3 @@ I'm here with you when you have to **find your unique voice**, how you want to a
 And finally I'm with you when I challenge you to think what you can do to **multiply your impact exponentially**. 10x, 100x, 1,000x bigger. Because I know you are powerful, much more than you dare to think or believe. I'm with you to get over your limiting beliefs, multiply your End Result and achieve the unthinkable. For Ocean Sustainability and for yourself.
 
 Are you with me?
-
-***
-
-Photo by [Axel Antas-Bergkvist](https://unsplash.com/@aabergkvist?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
