@@ -42,11 +42,11 @@ weight = 3
 [[menu.main]]
 name = "About"
 url = "about"
-weight = 2
+weight = 1
 [[menu.main]]
 name = "Thoughts"
-url = "/"
-weight = 1
+url = "post"
+weight = 2
 [outputs]
 home = ["HTML", "RSS", "json"]
 [params]
