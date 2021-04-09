@@ -1,7 +1,8 @@
 ---
 title: Programmes, Retreats, Mastermind Groups
 image: "/images/coral-q-u-i-0g01ui1mqhg-unsplash.jpeg"
-image_credit: Photo by [Q.U.I](https://unsplash.com/@quinguyen?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+image_credit: Photo by [Q.U.I](https://unsplash.com/@quinguyen?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+  on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 description: 'I offer One-to-One Programmes & Retreats, and Ocean Mastermind programmes
   for groups of 7 to 15 people. '
 
@@ -26,7 +27,7 @@ If you are interested in Group Programmes, the [Ocean Mastermind Group](#group) 
 | Extra Email | Always-on “quick- response”, email within 4 work hours | Always-on, email within 8 work hours |
 | Extra Phone Call | Always-on “immediate- response”, 15’call within 1 work hours | Always-on “quick- response”, 15’call within 4 work hours |
 | Extra Zoom Call | up-to-2-hrs calls on request within 24hrs | N.A. |
-| Total Price (+VAT) | £30,000 | £10,000 |
+| Total Price (+VAT) | P.O.A. | P.O.A. |
 
 #### Short One-to-One Programmes {#Short}
 
@@ -38,7 +39,7 @@ If you are interested in Group Programmes, the [Ocean Mastermind Group](#group) 
 | Extra Email | Always-on, email within 8 work hours | Always-on, email within 16 work hours |
 | Extra Phone Call | N.A. | N.A. |
 | Extra Zoom Call | N.A. | N.A. |
-| Total Price (+VAT) | £6,000 | £3,500 |
+| Total Price (+VAT) | P.O.A. | P.O.A. |
 
 #### Individual Retreats {#retreats}
 
@@ -46,7 +47,7 @@ If you are interested in Group Programmes, the [Ocean Mastermind Group](#group) 
 | --- | --- | --- |
 | Duration | 3 days | 1 day |
 | Planned Activities | 3 X 8hrs. coaching + activities | 1X 8hrs. coaching + activities |
-| Total Price (+VAT) | £4,950 excluding travel + accommodation for client & coach | £1,950 excluding travel + accommodation for client & coach |
+| Total Price (+VAT) | £4,950 excluding travel + accommodation for client & coach | P.O.A. excluding travel + accommodation for client & coach |
 
 #### Group Mastermind Programmes {#group}
 
@@ -56,4 +57,4 @@ If you are interested in Group Programmes, the [Ocean Mastermind Group](#group) 
 | Participants | 7 to 15 | 7 to 15 |
 | Planned Activities | 9 X 2-hr calls, 3 calls/mo. | 9 X 2-hr calls, 3 calls/mo. |
 | Other Planned Activities | 2 X 1-day retreats, 1 at start, 1 at end | N.A. |
-| Total Price (+VAT) | £995/participant, excluding travel + accommodation for client & coach | £595/participant |
+| Total Price (+VAT) | P.O.A./participant, excluding travel + accommodation for client & coach | P.O.A./participant |
