@@ -16,7 +16,7 @@
 <section class="section">
   <div class="container">
     <div class="col-lg-8 mx-auto">
-      <div class="content">{{ $.Site.Params.description }}</div>
+      <div class="content">{{ $.Site.Params.description | markdownify }}</div>
     </div>
   </div>
 </section>
