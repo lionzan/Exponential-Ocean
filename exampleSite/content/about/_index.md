@@ -1,5 +1,5 @@
 ---
-title: Leonardo Zangrando – *Ocean Impact Coach*
+title: Leonardo Zangrando – _Ocean Impact Coach_
 image: images/hero-image-wide.jpg
 image_credit: Image by Leonardo Zangrando
 description: I work with integrity, transparency and out-of-the-box thinking, to help
