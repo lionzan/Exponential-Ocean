@@ -14,7 +14,9 @@ I am a Consultant, Advisor and Coach with a passion for the Ocean. I help **Powe
 * discover their **unique individual approach to it**
 * uncover their **power to multiply their Impact**
 
-I work [**One-to-One**](plans) with individual clients and run [**Sustainability Mastermind Groups**](plans), with[ **integrity**, **transparency** and **out-of-the-box thinking**](working-together), to help Powerful People achieve an exponential impact on Ocean sustainability.
+I work [**One-to-One**](plans) with individual clients and run [**Sustainability Mastermind Groups**](plans), with[ **integrity**, **transparency** and **out-of-the-box thinking**](working-together), to help Powerful Ocean Lovers achieve an exponential impact on Ocean Sustainability.
+
+(I take clients to work in English, Spanish and Italian)
 
 ## Who is Leonardo
 
