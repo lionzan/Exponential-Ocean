@@ -47,7 +47,7 @@ If you are interested in Group Programmes, the [Ocean Mastermind Group](#group) 
 | --- | --- | --- |
 | Duration | 3 days | 1 day |
 | Planned Activities | 3 X 8hrs. coaching + activities | 1X 8hrs. coaching + activities |
-| Total Price (+VAT) | £4,950 excluding travel + accommodation for client & coach | P.O.A. excluding travel + accommodation for client & coach |
+| Total Price (+VAT) | P.O.A. excluding travel + accommodation for client & coach | P.O.A. excluding travel + accommodation for client & coach |
 
 #### Group Mastermind Programmes {#group}
 
