@@ -24,8 +24,8 @@ If you are interested in Group Programmes, the [Ocean Mastermind Group](#group) 
 | Duration | 12 months | 12 months |
 | Planned Zoom Calls | 48 X 2-hr calls, 4 calls/mo. | 36 X 2hr calls, 3 calls/mo. |
 | Other Planned Activities | includes 2 X Stingray (see Individual Retreats below), 1 at start, 1 half-way | N.A. |
-| Extra Email | Always-on “quick- response”, email within 4 work hours | Always-on, email within 8 work hours |
-| Extra Phone Call | Always-on “immediate- response”, 15’call within 1 work hours | Always-on “quick- response”, 15’call within 4 work hours |
+| Extra Email | Always-on “quick-response”, email within 4 work hours | Always-on, email within 8 work hours |
+| Extra Phone Call | Always-on “immediate-response”, 15’ call within 1 work hours | Always-on “quick-response”, 15’ call within 4 work hours |
 | Extra Zoom Call | up-to-2-hrs calls on request within 24hrs | N.A. |
 | Total Price (+VAT) | P.O.A. | P.O.A. |
 
