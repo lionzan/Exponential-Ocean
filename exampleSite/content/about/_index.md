@@ -7,7 +7,9 @@ description: 'I work with people who think bigger than themselves and want to le
   impact exponentially. I help them become powerful like the Ocean. '
 
 ---
-I work with [**people who think bigger than themselves and want to leave a mark on life**](/you). I help them to go beyond their past successes and multiply their impact exponentially. I help them become powerful like the Ocean.
+I work with [**people who think bigger than themselves and want to leave a mark on life**](/you). They are like powerful waves in the Ocean. But there’s only so much that a wave can grow. 
+
+**I help them go beyond their past successes and multiply their impact exponentially. I help them become powerful like the Ocean.**
 
 Even highly successful people have unspoken fears and frustrations that hold them back from achieving a much greater impact. I help them uncover their highest, unthinkable aspirations and realise them to leave a mark through what they love. I work with them to
 
