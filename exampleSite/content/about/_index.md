@@ -7,7 +7,7 @@ description: 'I work with people who think bigger than themselves and want to le
   impact exponentially. I help them become powerful like the Ocean. '
 
 ---
-I work with [Powerful Ocean Lovers](you) who think bigger than themselves and want to leave a mark on life. I help them to go beyond their past successes and multiply their impact exponentially. I help them become powerful like the Ocean. 
+I work with [Ocean Lovers](you) who think bigger than themselves and want to leave a mark on life. I help them to go beyond their past successes and multiply their impact exponentially. I help them become powerful like the Ocean.
 
 Even highly successful people have unspoken fears and frustrations that hold them back from achieving a much greater impact. I help them uncover their highest, unthinkable aspirations and realise them to leave a mark through what they love. I work with them to
 
@@ -15,7 +15,7 @@ Even highly successful people have unspoken fears and frustrations that hold the
 * discover their **unique individual approach to it**
 * uncover their **power to multiply their Impact**
 
-I work [**One-to-One**](plans) with individual clients and run [**Sustainability Mastermind Groups**](plans), with[ **integrity**, **transparency** and **out-of-the-box thinking**](working-together), to help Powerful Ocean Lovers achieve an exponential impact on Ocean Sustainability and all of their highest, unthinkable aspirations.
+I work [**One-to-One**](plans) with individual clients and run [**Sustainability Mastermind Groups**](plans), with[ **integrity**, **transparency** and **out-of-the-box thinking**](working-together), to help Ocean Lovers achieve an exponential impact on Ocean Sustainability and all of their highest, unthinkable aspirations.
 
 (I work with clients in English, Spanish and Italian)
 
