@@ -1,22 +1,23 @@
 ---
-title: Leonardo Zangrando – _Ocean Impact Coach_
+title: Leonardo Zangrando – _Exponential Ocean Impact Coach_
 image: images/hero-image-wide.jpg
 image_credit: Image by Leonardo Zangrando
-description: I work with integrity, transparency and out-of-the-box thinking, to help
-  Powerful People achieve an exponential Impact on Ocean Sustainability.
+description: 'I work with people who think bigger than themselves and want to leave
+  a mark on life. I help them to go beyond their past successes and multiply their
+  impact exponentially. I help them become powerful like the Ocean. '
 
 ---
-I am a Consultant, Advisor and Coach with a passion for the Ocean. I help **Powerful Ocean Lovers** multiply their personal impact on Ocean Sustainability.
+I work with [Powerful Ocean Lovers](you) who think bigger than themselves and want to leave a mark on life. I help them to go beyond their past successes and multiply their impact exponentially. I help them become powerful like the Ocean. 
 
-[Powerful Ocean Lovers](you) **want to achieve things greater that themselves** and want to **leave a mark on life**. These are my preferred clients, the only ones I choose to work with. I work with CEOs, Entrepreneurs, Philanthropists and Powerful Ocean Lovers to help them
+Even highly successful people have unspoken fears and frustrations that hold them back from achieving a much greater impact. I help them uncover their highest, unthinkable aspirations and realise them to leave a mark through what they love. I work with them to
 
 * gain **clarity of their own End Result**
 * discover their **unique individual approach to it**
 * uncover their **power to multiply their Impact**
 
-I work [**One-to-One**](plans) with individual clients and run [**Sustainability Mastermind Groups**](plans), with[ **integrity**, **transparency** and **out-of-the-box thinking**](working-together), to help Powerful Ocean Lovers achieve an exponential impact on Ocean Sustainability.
+I work [**One-to-One**](plans) with individual clients and run [**Sustainability Mastermind Groups**](plans), with[ **integrity**, **transparency** and **out-of-the-box thinking**](working-together), to help Powerful Ocean Lovers achieve an exponential impact on Ocean Sustainability and all of their highest, unthinkable aspirations.
 
-(I take clients to work in English, Spanish and Italian)
+(I work with clients in English, Spanish and Italian)
 
 ## Who is Leonardo
 
