@@ -1,5 +1,5 @@
 ---
-title: Let's Talk About You, a Powerful Ocean Lover
+title: About You, a Powerful Person
 image: images/you-hero-image.jpeg
 image_credit: Waves Image by [Axel Antas-Bergkvist](https://unsplash.com/@aabergkvist?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
   on [Unsplash](https://unsplash.com/s/photos/big-waves?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
@@ -10,11 +10,11 @@ description: You are a Powerful Person who thinks big and wants to leave a mark 
 ---
 So much [about myself](/about), let's talk about you!
 
-You are a Powerful Person [**who thinks big and wants to leave a mark on life**](/you). You could be a CEO, an Entrepreneur, a Philanthropist, or any other person who think bigger that themselves and feel they want to leave a mark on life. You are my preferred client.
+You are a successful person [**who thinks big and wants to leave a mark on life**](/you). You are a CEO, an Entrepreneur, a Philanthropist, or any other person who think bigger that themselves and feel they want to leave a mark on life. You are my preferred client.
 
-You have the drive to do something for some great cause like Ocean Sustainability, and you feel you're not doing enough. Too many choices, too many possible actions, too many alternatives.
+**You are like a powerful wave in the Ocean**. You have the drive to do something for a great cause, and you feel you're not doing enough.  There’s only so much that a wave can grow. Too many choices, too many possible actions, too many alternatives. **What about becoming powerful like the Ocean?**
 
-### You ask yourself, what objective should I choose? How can I make it happen?
+##### You ask yourself, what objective should I choose? How can I make it happen?
 
 I'm here to help you and be with you when you make those life-changing decisions about **what really drives you**, what you are able to do just for the sake of it, what is your powerful End Result.
 
