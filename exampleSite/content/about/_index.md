@@ -1,5 +1,5 @@
 ---
-title: Leonardo Zangrando – _Exponential Ocean Impact Coach_
+title: Leonardo Zangrando – _Ocean Lover, Impact Coach_
 image: images/hero-image-wide.jpg
 image_credit: Image by Leonardo Zangrando
 description: 'I work with people who think bigger than themselves and want to leave
