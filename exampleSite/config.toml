@@ -4,7 +4,7 @@ languageCode = "en-uk"
 languageName = "En"
 paginate = "5"
 theme = "persian"
-title = "Exponential Ocean Impact"
+title = "Exponential Ocean"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
