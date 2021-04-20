@@ -6,7 +6,7 @@ description: It's just an excuse to allow your fears win over your higher self. 
   happens when you don't have a clear End Result in that area.  Say, eating unhealthy
   food. I can't manage to stop eating chocolate, is just because your health End Result
   is not clear in your mind.
-date: 2021-04-20T08:00:00+00:00
+date: 2021-04-20T07:00:00+00:00
 image: "/images/thats-how-i-am-nick-fewings-asskkouqkoy-unsplash.jpeg"
 image_credit: Photo by [Nick Fewings](https://unsplash.com/@jannerboy62?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
   on [Unsplash](https://unsplash.com/s/photos/strange?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
