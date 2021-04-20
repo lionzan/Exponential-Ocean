@@ -5,7 +5,7 @@ date = 2021-04-19T07:36:43Z
 description = "Less than 1 percent of global philanthropy goes toward ocean conservation. That’s for a part of the planet that feeds two billion people, provides millions of jobs and gives us 50 percent of our oxygen."
 image = "/images/sangga-rima-roman-selia-p-em8nbz3fg-unsplash.jpeg"
 image_credit = "Photo by [Sangga Rima Roman Selia](https://unsplash.com/@sxy_selia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/small-fish?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
-tags = ["sustainability", "ocean"]
+tags = ["philanthropy", "sustainability", "ocean"]
 title = "Only One Percent!"
 youtube_handle = "2W6t85B1k1U"
 
