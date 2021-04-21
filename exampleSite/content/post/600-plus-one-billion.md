@@ -1,6 +1,6 @@
 +++
-author = ""
-categories = []
+author = "Leonardo Zangrando"
+categories = ["Impact"]
 date = 2021-04-21T07:27:00Z
 description = "600 Plus One Billion. That's the annual cost of accidents in maritime: 600 lives lost and $1bn financial losses.That is to say, that is the cost of inadequacy of current safety and risk management practices."
 draft = true
