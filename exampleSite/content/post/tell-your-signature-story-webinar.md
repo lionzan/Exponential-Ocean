@@ -10,9 +10,9 @@ title = "Tell Your Signature Story Webinar"
 youtube_handle = ""
 
 +++
-On 6th May at 7pm my friend [**Isaac Kaufman**](https://www.linkedin.com/feed/#) is going to hold a very interesting webinar that I suggest to all startups, entrepreneurs and anyone who wants to craft their own Signature Story. "[ENTREPRENEURS GUIDE: HOW TO TELL YOUR STORY TO SCALE YOUR BUSINESS](https://lifepurposemastery.coach/story-workshop)"
+On 6th May at 7pm my friend [**Isaac Kaufman**](https://www.linkedin.com/in/isaac-kaufman-coach/) is going to hold a very interesting webinar that I suggest to all startups, entrepreneurs and anyone who wants to craft their own Signature Story. **"**[**ENTREPRENEURS GUIDE: HOW TO TELL YOUR STORY TO SCALE YOUR BUSINESS**](https://lifepurposemastery.coach/story-workshop)**"**
 
-Register via [https://lifepurposemastery.coach/story-workshop](https://lifepurposemastery.coach/story-workshop "https://lifepurposemastery.coach/story-workshop") (this edition is free, don't miss the opportunity!)
+Register via [**https://lifepurposemastery.coach/story-workshop **](https://lifepurposemastery.coach/story-workshop "https://lifepurposemastery.coach/story-workshop")(this edition is free, don't miss the opportunity!)
 
 Telling your story is how you seamlessly & ethically influence your audience - It’s how you effortlessly & confidently sell without feeling or coming across as “salesy”.
 
