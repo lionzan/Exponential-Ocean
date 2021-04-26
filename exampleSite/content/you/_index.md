@@ -12,7 +12,9 @@ So much [about myself](/about), let's talk about you!
 
 You are a successful person [**who thinks big and wants to leave a mark on life**](/you). You are a CEO, an Entrepreneur, a Philanthropist, or any other person who think bigger that themselves and feel they want to leave a mark on life. You are my preferred client.
 
-**You are like a powerful wave in the Ocean**. You have the drive to do something for a great cause, and you feel you're not doing enough.  There’s only so much that a wave can grow. Too many choices, too many possible actions, too many alternatives. **What about becoming powerful like the Ocean?**
+**You are like a powerful wave in the Ocean**. You have the drive to do something for a great cause and now you are going through an abrupt change in life that opens up an entirely new chapter full of possibilities. 
+
+But you feel you're not doing enough.  There’s only so much that a wave can grow. Too many choices, too many possible actions, too many alternatives. **What about becoming powerful like the Ocean?**
 
 ##### You ask yourself, what objective should I choose? How can I make it happen?
 
