@@ -1,12 +1,13 @@
 ---
 title: Working Together
 image: "/images/2-dolphins-jonas-von-werne-wn6eybhr2x8-unsplash.jpeg"
-image_credit: Photo by [Jonas Von Werne](https://unsplash.com/@jonasvonwerne?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+image_credit: Photo by [Jonas Von Werne](https://unsplash.com/@jonasvonwerne?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+  on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 description: I work with integrity, transparency and out-of-the-box thinking to help
   Powerful People achieve an exponential Impact on Ocean sustainability.
 
 ---
-> I work with **integrity**, **transparency** and **out-of-the-box thinking** to help Powerful People achieve an exponential Impact on Ocean Sustainability.
+> I work with **integrity**, **transparency** and **out-of-the-box thinking** with People who want to leave a mark on the world and are going through an abrupt change in life that opens up an entirely new chapter full of possibilities.
 
 ## How We Are Going to Work Together
 
