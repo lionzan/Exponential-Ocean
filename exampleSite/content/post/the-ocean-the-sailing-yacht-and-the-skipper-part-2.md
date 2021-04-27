@@ -5,7 +5,7 @@ date = 2021-04-27T07:02:40Z
 description = "you can decide how you sail across the Ocean, where you want to go and which marks you want to put on the map to guide you in your journey towards the objective"
 image = "/images/yacht-sailing-michael-held-hvidcs2au-k-unsplash.jpeg"
 image_credit = "Photo by [Michael Held](https://unsplash.com/@michaelheld?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/waves-yacht?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
-tags = ["Video", "10x", "Choice"]
+tags = ["inside-out", "3 principles", "Video", "10x", "Choice"]
 title = "the Ocean, the Sailing Yacht and the Skipper - part 2"
 youtube_handle = "QjHJa-cv0Rs"
 
