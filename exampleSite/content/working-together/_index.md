@@ -7,7 +7,7 @@ description: I work with integrity, transparency and out-of-the-box thinking to 
   Powerful People achieve an exponential Impact on Ocean sustainability.
 
 ---
-> I work with **integrity**, **transparency** and **out-of-the-box thinking** with People who want to leave a mark on the world and are going through an abrupt change in life that opens up an entirely new chapter full of possibilities.
+> I work with **integrity**, **transparency** and **out-of-the-box thinking** with People who want to leave a mark on the world in Ocean Sustainability and other global challenges.
 
 ## How We Are Going to Work Together
 
