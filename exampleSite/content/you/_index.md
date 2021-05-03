@@ -5,7 +5,7 @@ image_credit: Waves Image by [Axel Antas-Bergkvist](https://unsplash.com/@aaberg
   on [Unsplash](https://unsplash.com/s/photos/big-waves?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 description: You are a Powerful Person who thinks big and wants to leave a mark on
   life. You could be a CEO, an Entrepreneur, a Philanthropist, or any other person
-  who think bigger that themselves and feel they want to leave a mark on life.
+  who think bigger that themself and feel they want to leave a mark on life.
 
 ---
 So much [about myself](/about), let's talk about you!
