@@ -7,7 +7,7 @@ image = "/images/electric-car-waldemar-brandt-rhftdk9yu2q-unsplash.jpeg"
 image_credit = "Photo by [Waldemar Brandt](https://unsplash.com/@waldemarbrandt67w?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/electric-battery?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 tags = ["sustainability", "Clarity", "electric", "batteries", "video"]
 title = "Missing the Forest for the Trees"
-youtube_handle = "_f0S9GyHmWQ"
+youtube_handle = "Ly3hfaQemgI"
 
 +++
 I often get the question whether replacing fossil fuel with electric propulsion in vehicles is right. Let's see why batteries are better in spite of the pushbacks about Lithium sustainability.
