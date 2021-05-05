@@ -62,6 +62,7 @@ fields:
     required: false
   label: youtube handle
 pages:
+- exampleSite/content/post/3-attitudes-to-navigating-lifehttps-youtu.be-lvxjhcsm7he.md
 - exampleSite/content/post/600-plus-one-billion.md
 - exampleSite/content/post/don-t-be-shy-set-ambitious-goals-1.md
 - exampleSite/content/post/focus-on-what-you-can-choose-to-do.md
