@@ -6,7 +6,7 @@ description = "Quick video-post today about how we decide to navigate our life. 
 image = "/images/default-image.jpeg"
 image_credit = "Waves Image by [Axel Antas-Bergkvist](https://unsplash.com/@aabergkvist?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/big-waves?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 tags = ["ocean", "sailing", "10x"]
-title = "3 Attitudes to Navigating Lifehttps://youtu.be/LvxjHcsM7HE"
+title = "3 Attitudes to Navigating Life"
 youtube_handle = "LvxjHcsM7HE"
 
 +++
