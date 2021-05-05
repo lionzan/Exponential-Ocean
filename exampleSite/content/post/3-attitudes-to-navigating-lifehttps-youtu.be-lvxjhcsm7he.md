@@ -21,5 +21,3 @@ Or as Challengers, who have a big objective like sail across the Atlantic as fas
 Which kind of sailor are you? What are you doing with your life? Would you like to go to the next level?
 
 Are you frustrated for not doing enough for Ocean Sustainability and Decarbonisation? Let's have a chat!
-
-\#10xYourImpact #Ocean #Sustainability #whatcanido
