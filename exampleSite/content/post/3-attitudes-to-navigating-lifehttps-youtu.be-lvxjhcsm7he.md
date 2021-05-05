@@ -10,18 +10,16 @@ title = "3 Attitudes to Navigating Life"
 youtube_handle = "LvxjHcsM7HE"
 
 +++
-  
-  
-Quick video-post today about how we decide to navigate our life. As if we were sailors sailing our yacht of consciousness in the Ocean of possibilities.   
-  
-We can sail as tourists, just to enjoy the breeze without any particular destination.   
-  
-Or we can do it as Explorers, setting objectives to visit this or that place and then accomplishing them.  
-  
-Or as racers, who have a big objective like sail across the Atlantic as fast as possible.  
-  
-Which kind of sailor are you? What are you doing with your life? Would you like to go to the next level?  
-  
-Are you frustrated for not doing enough for Ocean Sustainability and Decarbonisation? Let's have a chat!  
-  
+Quick video-post today about how we decide to navigate our life. As if we were sailors sailing our yacht of consciousness in the Ocean of possibilities.
+
+We can sail as Tourists, just to enjoy the breeze without any particular destination.
+
+Or we can do it as Explorers, setting objectives to visit this or that place and then accomplishing them.
+
+Or as Challengers, who have a big objective like sail across the Atlantic as fast as possible.
+
+Which kind of sailor are you? What are you doing with your life? Would you like to go to the next level?
+
+Are you frustrated for not doing enough for Ocean Sustainability and Decarbonisation? Let's have a chat!
+
 \#10xYourImpact #Ocean #Sustainability #whatcanido
