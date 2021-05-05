@@ -1,7 +1,7 @@
 +++
 author = "Leonardo Zangrando"
 categories = ["Greatness"]
-date = 2021-05-01T00:00:00Z
+date = 2021-05-03T00:00:00Z
 description = "It's a colloquial way to say that you commit to something such as a long journey to a far off destination. Read on to see what it has to do with me..."
 image = "/images/clipper-torsten-dederichs-jfhtrqbfb_e-unsplash.jpeg"
 image_credit = "Photo by [Torsten Dederichs](https://unsplash.com/@tdederichs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/clipper-tallship?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
