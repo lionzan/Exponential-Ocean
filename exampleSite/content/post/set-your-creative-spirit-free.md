@@ -10,7 +10,7 @@ title = "Set Your Creative Spirit Free"
 youtube_handle = "O1fpc_1g7Nc"
 
 +++
-This is not just about creativity. It's about how you approach life. We are creative spirits and much too often we lock our creative spirit inside, while responding to external pressures, needs and demands. When we respond, fight back or try to force a result, we think we are in control, but we are just responding to these external pressures. Why so?
+This is not just about creativity. It's about how we approach life. We are creative spirits and much too often we lock our creative spirit inside, while responding to external pressures, needs and demands. When we respond, fight back or try to force a result, we think we are in control, but we are just responding to these external pressures. Why so?
 
 It's because we think and overthink stuff, and we react to the constructs that we think in our head. What if we thought just for a moment that **we are thinking the thoughts to which we react with our feelings**. The stuff that make us suffer is just the thought that we have about what is happening outside us.
 
