@@ -5,7 +5,7 @@ date = 2021-05-05T06:57:16Z
 description = "Quick video-post today about how we decide to navigate our life. As if we were sailors sailing our yacht of consciousness in the Ocean of possibilities. "
 image = "/images/laser-sail-ludomil-sawicki-s7swxulzadg-unsplash.jpeg"
 image_credit = "Photo by [Ludomił Sawicki](https://unsplash.com/@ludomusae?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/sailing-boat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
-tags = ["ocean", "sailing", "10x"]
+tags = ["Video", "ocean", "sailing", "10x"]
 title = "3 Attitudes to Navigating Life"
 youtube_handle = "LvxjHcsM7HE"
 
