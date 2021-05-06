@@ -7,7 +7,7 @@ image = "/images/inner-creativity-aleksandra-boguslawska-ms7kd9ti7fq-unsplash.jp
 image_credit = "Photo by [Aleksandra Boguslawska](https://unsplash.com/@aleksandraboguslawska?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/path?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 tags = ["unfold life", "video", "creative spirit"]
 title = "Set Your Creative Spirit Free"
-youtube_handle = ""
+youtube_handle = "O1fpc_1g7Nc"
 
 +++
 This is not just abut creativity. It's about how you approach life. We are creative spirits and much too often we lock our creative spirit inside, while responding to external pressures, needs and demands. When we respond, fight back or try to force a result, we think we are in control, but we are just responding to these external pressures. Why so?
