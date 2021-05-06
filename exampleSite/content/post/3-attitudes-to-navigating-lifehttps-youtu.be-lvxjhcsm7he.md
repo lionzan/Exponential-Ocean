@@ -14,7 +14,7 @@ Quick video-post today about how we decide to navigate our life. As if we were s
 
 * We can sail as **Tourists**, just to enjoy the breeze without any particular destination.
 * We can do it as **Explorers**, setting objectives to visit specific places and then accomplishing them.
-* Or wed can sail as **Challengers**, who have a big objective like sailing solo across the Atlantic or around the world.
+* Or we can sail as **Challengers**, who have a big objective like sailing solo across the Atlantic or around the world.
 
 Which kind of sailor are you? What are you doing with your life? Would you like to go to the next level?
 
