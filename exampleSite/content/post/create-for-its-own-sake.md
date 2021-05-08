@@ -1,9 +1,8 @@
 +++
-author = ""
+author = "Leonardo Zangrando"
 categories = ["Greatness"]
 date = 2021-05-08T10:58:40Z
-description = ""
-draft = true
+description = "I hear a recurring question about how to recognise a real End Result vs. something that we just think we need to do. Create for its own sake is 2 secrets in one about how to recognise your real end results."
 image = "/images/default-image.jpeg"
 image_credit = "Waves Image by [Axel Antas-Bergkvist](https://unsplash.com/@aabergkvist?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/big-waves?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 tags = ["end result", "video"]
