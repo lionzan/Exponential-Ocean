@@ -3,8 +3,8 @@ author = "Leonardo Zangrando"
 categories = ["Greatness", "Impact"]
 date = 2021-05-19T08:52:47Z
 description = "We have an immense potential to create and have an impact. Most often we stop ourselves in the track because of fears or limiting beliefs.      What is that you can do to multiply your impact on sustainability beyond the things that you can do as an individual?"
-image = "/images/power-wolfgang-hasselmann-wqp-elwk-kc-unsplash.jpeg"
-image_credit = "Photo by [Wolfgang Hasselmann](https://unsplash.com/@wolfgang_hasselmann?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/power?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
+image = "/images/power-remi-boudousquie-b0s5l-7cmyu-unsplash.jpeg"
+image_credit = "Photo by [Rémi Boudousquié](https://unsplash.com/@cozoe?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/whale?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 tags = ["10x", "sustainability", "ocean", "Video"]
 title = "How to Multiply Your Impact? "
 youtube_handle = "RUxDEv33Z1c"
