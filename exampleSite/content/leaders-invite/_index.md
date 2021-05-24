@@ -14,7 +14,7 @@ I am interviewing leaders who have a multiplicative impact on Ocean Sustainabili
 
 People tend to think that they can do just so much for Ocean Sustainability with their individual actions, and I want to inspire them with examples of people like you who managed to multiply their impact exponentially.
 
-I would like to invite you to an interview with me, to talk about this and help me inspire other people to find their own way to multiply their impact. Please reach out via [leaders@zangrando.com](mailto:leaders@zangrando.com "leaders@zangrando.com") and let's multiply our impact even further.
+I would like to invite you to an interview with me, to talk about this and help me inspire other people to find their own way to be impactful. Please reach out via [leaders@zangrando.com](mailto:leaders@zangrando.com "leaders@zangrando.com") and let's multiply our impact even further!
 
 I look forward to speaking soon.
 
