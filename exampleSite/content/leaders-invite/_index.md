@@ -20,6 +20,6 @@ I look forward to speaking soon.
 
 All the best
 
-__Leonardo Zangrando__
-_Ocean Impact Advocate_
+__Leonardo Zangrando__  
+_Ocean Impact Advocate_  
 Exponential Ocean
