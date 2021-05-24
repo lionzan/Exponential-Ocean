@@ -12,7 +12,7 @@ Exponential Ocean **Inspire** is a project to inspire people, leaders, CEOs, ent
 
 We want to inspire them with examples of people who successfully managed to have a multiplicative effect beyond their normal activity.
 
-We are interviewing leaders and people from all walks of life to produce
+I am interviewing leaders and people from all walks of life to produce
 
 * an interviews series
 * a podcast
@@ -20,7 +20,7 @@ We are interviewing leaders and people from all walks of life to produce
 * a website
 * and possibly a documentary
 
-These will be targeted to 
+These will be targeted to
 
 * the broad public
 * leaders in various sectors
@@ -28,3 +28,11 @@ These will be targeted to
   * go beyond green washing
   * achieve real impact
   * inspire and motivate their own people
+
+### Leaders Interviews
+
+Here's my invite to leaders to be interviewed.
+
+### Contributors
+
+I invite people who can contribute to this project to get in touch and discuss what they can bring in, just contact me on [leonardo@zangrando.com](mailto:leonardo@zangrando.com "leonardo@zangrando.com")
