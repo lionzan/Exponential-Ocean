@@ -3,7 +3,7 @@
 <section class="section pt-0">
   <div class="container-fluid">
     <div class="row">
-      {{ $paginator := .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) }}
+      {{ $paginator := .Paginate (where .Data.Pages "Section" "service") }}
       {{ range $index,$elements:= $paginator.Pages }}
       {{ if eq $index 0}}
       <div class="col-12 mb-4">
