@@ -12,10 +12,17 @@ sections:
   create: documents
   match: "**/*"
 - type: heading
-  label: Blog Post
+  label: Content Directories
 - type: directory
   path: exampleSite/content/post
-  label: Post
+  label: Blog Posts
+  create: documents
+  match: "**/*"
+  templates:
+  - post
+- type: directory
+  path: exampleSite/content/service
+  label: Services
   create: documents
   match: "**/*"
   templates:
