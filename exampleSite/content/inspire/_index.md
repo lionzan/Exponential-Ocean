@@ -31,8 +31,8 @@ These will be targeted to
 
 ### Leaders Interviews
 
-Here's my invite to leaders to be interviewed.
+Here's [my invite to leaders](/leaders-invite).
 
 ### Contributors
 
-I invite people who can contribute to this project to get in touch and discuss what they can bring in, just contact me on [leonardo@zangrando.com](mailto:leonardo@zangrando.com "leonardo@zangrando.com")
+I invite people who can contribute to this project to get in touch and discuss what they can bring in, just contact me on [inspire@zangrando.com](mailto:inspire@zangrando.com "inspire@zangrando.com")
