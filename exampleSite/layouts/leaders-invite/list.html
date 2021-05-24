@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+<section class="bg-light hero-banner">
+  {{ with .Params.image }}
+    <img src="{{ . | absURL }}" alt="You the hero" class="img-fluid w-100">
+  {{ end }}
+  <div class="container">
+    <div class="row hero-image">
+      <div class="col-lg-8 mx-auto text-center">
+        <h1 class="text-center text-white">{{.Title | markdownify}}</h1>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="col-lg-8 mx-auto">
+      <div class="content">{{.Content}}</div>
+    </div>
+  </div>
+</section>
+
+{{ end }}
