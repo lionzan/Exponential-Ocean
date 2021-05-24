@@ -8,31 +8,18 @@ description: Exponential Ocean Inspire is a project to inspire people, leaders, 
   exponentially their impact on Ocean Sustainability.
 
 ---
-Exponential Ocean **Inspire** is a project to inspire people, leaders, CEOs, entrepreneurs, philanthropists and companies, to find their own way to multiply exponentially their impact on Ocean Sustainability.
+Dear Leader,
 
-We want to inspire them with examples of people who successfully managed to have a multiplicative effect beyond their normal activity.
+I am interviewing leaders who have a multiplicative impact on Ocean Sustainability, to inspire other people, leaders, CEOs, entrepreneurs, philanthropists and companies to multiply their own impact.
 
-I am interviewing leaders and people from all walks of life to produce
+People tend to think that they can do just so much for Ocean Sustainability with their individual actions, and I want to inspire them with examples of people like you who managed to multiply their impact exponentially.
 
-* an interviews series
-* a podcast
-* a book
-* a website
-* and possibly a documentary
+I would like to invite you to an interview with me, to talk about this and help me inspire other people to find their own way to multiply their impact. Please reach out via [leaders@zangrando.com](mailto:leaders@zangrando.com "leaders@zangrando.com") and let's multiply our impact even further.
 
-These will be targeted to
+I look forward to speaking soon.
 
-* the broad public
-* leaders in various sectors
-* companies willing to
-  * go beyond green washing
-  * achieve real impact
-  * inspire and motivate their own people
+All the best
 
-### Leaders Interviews
-
-Here's my invite to leaders to be interviewed.
-
-### Contributors
-
-I invite people who can contribute to this project to get in touch and discuss what they can bring in, just contact me on [leonardo@zangrando.com](mailto:leonardo@zangrando.com "leonardo@zangrando.com")
+**_Leonardo Zangrando_**_  
+Ocean Impact Advocate  
+_Exponential Ocean

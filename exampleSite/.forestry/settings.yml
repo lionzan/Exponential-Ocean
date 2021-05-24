@@ -34,7 +34,6 @@ sections:
 - type: document
   path: exampleSite/content/leaders-invite/_index.md
   label: Leaders Invite
-  match: "**/*"
 - type: document
   path: exampleSite/content/working-together/_index.md
   label: Working Together
