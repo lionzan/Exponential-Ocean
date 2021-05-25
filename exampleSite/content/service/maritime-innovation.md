@@ -19,10 +19,10 @@ We might want to have a chat.
 * I am a Naval Architect who innovated ship design and containter terminals.
 * I am an Innovation Consultant who have helped large organisations across different sectors – like Tesco, the BBC, booking.com and Belron – develop a corporate culture for innovation.
 * I am a Startup Advisor who knows inside-out these quintessentially innovative organisations.
-* I am passionate about **driving the maritime sector into a new era of low environmental impact**.
+* I am passionate about **driving the maritime sector into a new era of higher efficiency and low environmental impact**.
 
 I  help **shipping company leaders** like you in these times of change, to
 
-* develop a **vision** for sustainability,
+* develop a **vision** for digitalisation and sustainability,
 * map the **journey** to achieve it, and
 * develop the organisation **culture** for innovation.
