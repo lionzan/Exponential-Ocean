@@ -10,7 +10,7 @@ description: Exponential Ocean Inspire is a project to inspire people, leaders, 
 ---
 Exponential Ocean **Inspire** is a project to inspire people, leaders, CEOs, entrepreneurs, philanthropists and companies, to find their own way to multiply exponentially their impact on Ocean Sustainability.
 
-We want to inspire them with examples of people who successfully managed to have a multiplicative effect beyond their normal activity.
+I want to inspire them with examples of people who successfully managed to have a multiplicative effect beyond their normal activity.
 
 I am interviewing leaders and people from all walks of life to produce
 
