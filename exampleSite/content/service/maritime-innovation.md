@@ -17,8 +17,8 @@ youtube_handle = ""
 We might want to have a chat.
 
 * I am a Naval Architect who innovated ship design and containter terminals.
-* I am an Innovation Consultant who have helped large organisations across different sectors like Tesco, the BBC, booking.com and Belron develop a corporate culture for innovation.
-* I am a Startup Advisor who knows inside-out these quintessential innovative organisations.
+* I am an Innovation Consultant who have helped large organisations across different sectors – like Tesco, the BBC, booking.com and Belron – develop a corporate culture for innovation.
+* I am a Startup Advisor who knows inside-out these quintessentially innovative organisations.
 * I am passionate about **driving the maritime sector into a new era of low environmental impact**.
 
 I  help **shipping company leaders** like you in these times of change, to
