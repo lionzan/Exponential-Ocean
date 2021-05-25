@@ -11,7 +11,7 @@
           <img src="{{ .Params.Image | absURL }}" class="img-fluid w-100" alt="{{ .Title }}">
           <div class="post-content">
             <h2 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-            <h4 class="post-title">{{ .Params.description }}</h4>
+            <p>{{ .Params.description }}</p>
             <ul class="list-inline post-meta">
               <li class="list-inline-item"><i class="ti-tag"></i></li>
               {{ range .Params.Tags }}
