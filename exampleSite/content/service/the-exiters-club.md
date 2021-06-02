@@ -32,3 +32,10 @@ Looking forward to have you in this group of exceptional people!
 
 Yours  
 Leonardo
+
+### Readings
+
+A few interesting pieces of content for Exiters
+
+* [What every startup founder should know about exits](https://techcrunch.com/2018/07/31/what-every-startup-founder-should-know-about-exits/) – TechCrunch 07/2018
+* 
