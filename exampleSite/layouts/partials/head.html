@@ -42,7 +42,14 @@ AUTHOR WEBSITE: https://leonardo.zangrando.com
   <meta property="og:description" content="{{ with .Params.Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
   <meta property="og:image" content="{{ with .Params.Image }}{{ . | absURL }}{{ else }}{{ with .Site.Params.ogimage }}{{ . | absURL }}{{ end }}{{ end }}">
   <meta property="og:url" content="{{ .Permalink | absURL }}">
-  <meta name="twitter:card" content="https://leonardo.zangrando.com{{ with .Params.Image }}{{ . | absURL }}{{ else }}{{ with .Site.Params.ogimage }}{{ . | absURL }}{{ end }}{{ end }}">
+  <!-- Twitter Card data -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="{{ .Permalink | absURL }}">
+  <meta name="twitter:title" content="{{ .Title }}">
+  <meta name="twitter:description" content="{{ with .Params.Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
+  <meta name="twitter:creator" content="@lionzan">
+  <-- Twitter Summary card images must be at least 120x120px -->
+  <meta name="twitter:image" content="https://leonardo.zangrando.com{{ with .Params.Image }}{{ . | absURL }}{{ else }}{{ with .Site.Params.ogimage }}{{ . | absURL }}{{ end }}{{ end }}">
 
   
   <!-- Global site tag (gtag.js) - Google Analytics -->
