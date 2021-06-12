@@ -49,7 +49,7 @@ AUTHOR WEBSITE: https://leonardo.zangrando.com
   <meta name="twitter:description" content="{{ with .Params.Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
   <meta name="twitter:creator" content="@lionzan">
   <-- Twitter Summary card images must be at least 120x120px -->
-  <meta name="twitter:image" content="https://leonardo.zangrando.com{{ with .Params.Image }}{{ . | absURL }}{{ else }}{{ with .Site.Params.ogimage }}{{ . | absURL }}{{ end }}{{ end }}">
+  <meta name="twitter:image" content="{{ with .Params.Image }}{{ . | absURL }}{{ else }}{{ with .Site.Params.ogimage }}{{ . | absURL }}{{ end }}{{ end }}">
 
   
   <!-- Global site tag (gtag.js) - Google Analytics -->
