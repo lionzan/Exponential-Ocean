@@ -42,7 +42,7 @@ AUTHOR WEBSITE: https://leonardo.zangrando.com
   <meta property="og:description" content="{{ with .Params.Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
   <meta property="og:image" content="{{ with .Params.Image }}{{ . | absURL }}{{ else }}{{ with .Site.Params.ogimage }}{{ . | absURL }}{{ end }}{{ end }}">
   <meta property="og:url" content="{{ .Permalink | absURL }}">
-  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:card" content="{{ with .Params.Image }}{{ . | absURL }}{{ else }}{{ with .Site.Params.ogimage }}{{ . | absURL }}{{ end }}{{ end }}">
 
   
   <!-- Global site tag (gtag.js) - Google Analytics -->
