@@ -24,6 +24,6 @@ Fast forward a couple of years and I moved to London, where I started Pretotype 
 
 With the Pretotype Company Alberto and I helped some of the most prestigious corporates in Europe to bring an innovation mindset within the organisation, based on Pretotyping, obvs! Among our clients are the giant UK retailer Tesco, the BBC, booking.com, Fremantle Media and many others across Europe. We also collaborated with Google's CSI:Lab (Creative Skills for Innovation), to develop a [programme on innovation for their G2G programme](https://rework.withgoogle.com/guides/design-thinking/steps/run-a-CSI-Lab-on-design-thinking/) (more on this in a separate post).
 
-**Today I deliver keynote speeches on Pretotyping and advise organisations on how to make the best use of Pretotyping, for real, long-term change, to embrace innovation across the company while keeping the cost of innovation (i.e. new product failures) the lowest possible.**
+> Today I deliver **keynote speeches on Pretotyping** and **advise organisations on how to make the best use of Pretotyping**, for real, long-term change, to embrace innovation across the company while **keeping the cost of innovation (i.e. new product failures) the lowest possible**.
 
 If you want to make your organisation really innovative, get in touch for a chat on how Pretotyping can be your winning bet! Reach me on [pretotype@zangrando.com](mailto:pretotype@zangrando.com)
