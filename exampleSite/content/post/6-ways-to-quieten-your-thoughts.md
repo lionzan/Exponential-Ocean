@@ -7,7 +7,7 @@ image = "/images/silence-scott-umstattd-ists6lcu-ek-unsplash.jpeg"
 image_credit = "Photo by [Scott Umstattd](https://unsplash.com/@scott_umstattd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/silence?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 tags = ["thoughts", "video"]
 title = "6 Ways to Quieten Your Thoughts"
-youtube_handle = "I4e5LVXV0Nw"
+youtube_handle = "YkVQnVFe8Zw"
 
 +++
 Our constant stream of thoughts is a giant noise that hides the inner voice of the creator. We need to find ways to quieten down this noise so we can listen to the inner voice and let it speak.
@@ -19,4 +19,3 @@ The fist step to make room for our inner creator voice to express itself, is to 
 We know that the negative, disruptive thoughts come from a more "ancient" region of our brain, whereas rational thoughts come from a more "modern" part of our brain, the prefrontal cortex. Well, there are ways to activate one region instead of the other and of course we will try to take those actions that activate the rational mind, which then can decide to just shut up more easily than the disruptive, anxious one.
 
 In the video I share 6 techniques based on scientific research to do just this. Let's do it together!
-
