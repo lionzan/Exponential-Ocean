@@ -2,7 +2,7 @@ baseURL = "https://leonardo.zangrando.com"
 disqusShortname = ""
 languageCode = "en-uk"
 languageName = "En"
-paginate = "5"
+paginate = "21"
 theme = "persian"
 title = "Exponential Ocean"
 [markup.goldmark.renderer]
