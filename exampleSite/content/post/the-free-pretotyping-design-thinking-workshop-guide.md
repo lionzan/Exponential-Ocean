@@ -14,6 +14,6 @@ A few years ago I had the pleasure to work with Google's CSI:Lab (Creative Skill
 
 The result was a workshop now available for free to download and use in your organisation! The workshop material consists of the [full workshop slide deck](https://docs.google.com/presentation/d/1uHHSzDQdrJa4L0PU3ujS82QOfRfRTA3LdmbOPppBAd4/edit?usp=sharing&resourcekey=0-lHYJ09WhdDdrZg2wzpoBSg), PLUS and most importantly, the [Lesson Plan and Facilitator Guide](https://docs.google.com/document/d/1YzrhkT7pWh0dKp3gEdbyIMAghILnM9Qctkjd7vssudA/edit?usp=sharing&resourcekey=0-eJj0BY4ArGYB1TapDLQhOg).
 
-Now you have all you need to run a full workshop in your organisation, including the lesson plan and facilitator guide, that will allow you to deliver a massively successful workshop!
+Now you have all you need to run a full **Pretotyping + Design Thinking** workshop in your organisation, including the lesson plan and facilitator guide, that will allow you to deliver a massively successful workshop!
 
 To learn more about Pretotyping check my recent post [Pretotyping: the Revolutionary Approach to Successful Innovation directly from Google](https://leonardo.zangrando.com/post/pretotyping/) or get in touch at [pretotype@zangrando.com](mailto:pretotype@zangrando.com)
