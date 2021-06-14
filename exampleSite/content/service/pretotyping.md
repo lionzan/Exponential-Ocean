@@ -10,9 +10,9 @@ title = "Pretotyping: the Revolutionary Approach to Successful Innovation direct
 youtube_handle = ""
 
 +++
-I discovered Pretotyping in 2011 while teaching Lean Startup and Innovation at the [Master in Complex Actions](https://www.sissa.it/bandi/master-complex-actions-%E2%80%93-mca) of the renowned international science postgraduate school "[International School of Advanced Studies](https://www.sissa.it/about-us)" in Trieste.
+I discovered [Pretotyping](https://pretotyping.org) in 2011 while teaching Lean Startup and Innovation at the [Master in Complex Actions](https://www.sissa.it/bandi/master-complex-actions-%E2%80%93-mca) of the renowned international science postgraduate school "[International School of Advanced Studies](https://www.sissa.it/about-us)" in Trieste.
 
-I was teaching techniques for early validation of innovation ideas, but I was not happy with the suggestions coming from the "official" lean startup movement. I found these too generic, so I started looking for alternatives and I found about Alberto Savoia and his "Pretotype it" booklet. That was exactly what I had been looking for.
+I was teaching techniques for early validation of innovation ideas, but I was not happy with the suggestions coming from the "official" lean startup movement. I found these too generic, so I started looking for alternatives and I found about [Alberto Savoia](https://www.linkedin.com/in/albertosavoia/) and his "Pretotype it" booklet. That was exactly what I had been looking for.
 
 _Pretotyping is a **framework and set of practices and tools** on how to **address innovation in organisations** by **multiplying the number of innovations tested** while at the same time **dramatically reducing the cost of innovation** (i.e. new product failures)._
 
@@ -22,7 +22,7 @@ The [Italian translation went on Kindle](https://www.amazon.co.uk/Pretotype-Pret
 
 Fast forward a couple of years and I moved to London, where I started Pretotype Company Ltd, the first pretotyping company in Europe, soon followed by the Danish [Preeto](https://pree.to/) by the other European pretotyping guru [Tim Vang](https://www.linkedin.com/in/timvangmyc4/) (congrats Tim for the amazing steps forward you made!)
 
-With the Pretotype Company Alberto and I helped some of the most prestigious corporates in Europe to bring an innovation mindset within the organisation, based on Pretotyping, obvs! Among our clients are the giant UK retailer Tesco, the BBC, booking.com, Fremantle Media and many others across Europe. We also collaborated with Google's CSI:Lab (Creative Skills for Innovation), to develop a [programme on innovation for their G2G programme](https://rework.withgoogle.com/guides/design-thinking/steps/run-a-CSI-Lab-on-design-thinking/) (more on this in another post).
+With the Pretotype Company Alberto and I helped some of the most prestigious corporates in Europe to bring an innovation mindset within the organisation, based on Pretotyping, obvs! Among our clients are the giant UK retailer Tesco, the BBC, booking.com, Fremantle Media and many others across Europe. We also collaborated with Google's CSI:Lab (Creative Skills for Innovation), to develop a [programme on innovation for their G2G programme](https://rework.withgoogle.com/guides/design-thinking/steps/run-a-CSI-Lab-on-design-thinking/) (more on this in a separate post).
 
 Today I deliver keynote speeches on Pretotyping and advise organisations on how to make the best use of Pretotyping, for real, long-term change, to embrace innovation across the company while keeping the cost of innovation (i.e. new product failures) the lowest possible.
 
