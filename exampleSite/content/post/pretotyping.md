@@ -14,7 +14,7 @@ I discovered [Pretotyping](https://pretotyping.org) in 2011 while teaching Lean 
 
 I was teaching techniques for early validation of innovation ideas, but I was not happy with the suggestions coming from the "official" lean startup movement. I found these too generic, so I started looking for alternatives and I found about [Alberto Savoia](https://www.linkedin.com/in/albertosavoia/) and his "Pretotype it" booklet. That was exactly what I had been looking for.
 
-_Pretotyping is a **framework and set of practices and tools** on how to **address innovation in organisations** by **multiplying the number of innovations tested** while at the same time **dramatically reducing the cost of innovation** (i.e. new product failures)._
+> _Pretotyping is a **framework and set of practices and tools** on how to **address innovation in organisations** by **multiplying the number of innovations tested** while at the same time **dramatically reducing the cost of innovation** (i.e. new product failures)._
 
 The following year I spent a month in Silicon Valley, networking with the startup and innovation community to exchange educational techniques for entrepreneurship, and of course I met the man, Alberto. In that occasion I decided to translate the MVP booklet to Italian and I did it in 6 evenings while still in SV: an MVP shouldn't take long to execute! This gained me a prominent role as early [Pretotyping evangelist](https://www.pretotyping.org/story.html) and I have collaborated with Alberto ever since.
 
