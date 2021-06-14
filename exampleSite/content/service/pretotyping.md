@@ -6,7 +6,7 @@ description = "Pretotyping is a framework and set of practices and tools on how 
 image = "/images/pretotype-kobu-agency-ki1ir7l55fm-unsplash.jpeg"
 image_credit = "Photo by [KOBU Agency](https://unsplash.com/@kobuagency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/paper-airplane?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 tags = ["experimentation", "innovation"]
-title = "Pretotyping"
+title = "Pretotyping: the Revolutionary Approach to Successful Innovation directly from Google"
 youtube_handle = ""
 
 +++
