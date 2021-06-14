@@ -7,9 +7,15 @@ description: 'I work with people who think bigger than themselves and want to le
   impact exponentially. I help them become powerful like the Ocean. '
 
 ---
-I work with Leaders and [**people who want to leave a mark on the world**](/you). **They are like powerful waves in the Ocean**. But there’s only so much that a wave can grow. 
+I work with Leaders and [**people who want to leave a mark on the world**](/you). **They are like powerful waves in the Ocean**. But there’s only so much that a wave can grow.
 
-I help them multiply their impact on their own life, their business and the environment to go beyond their past successes and multiply it exponentially. **I help them become powerful like the Ocean.**
+I work with them them to achieve **personal**, **business** and **sustainability** impact, to go beyond their past successes and multiply it exponentially. **I help them become powerful like the Ocean,** through
+
+* Transformational Coaching
+* Leadership Coaching
+* Innovation Advisory
+
+### Why Coaching?
 
 Even highly successful people have unspoken fears and frustrations that hold them back from achieving a much greater impact. I help them uncover their highest, unthinkable aspirations and realise them to leave a mark through what they love. I work with them to
 
