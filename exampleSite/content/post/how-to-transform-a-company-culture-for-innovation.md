@@ -6,7 +6,7 @@ description = "Across all industries and locations, companies' growth slows down
 image = "/images/bubbles-marko-blazevic-ikpxcjuu_bg-unsplash.jpeg"
 image_credit = "Photo by [Marko Blažević](https://unsplash.com/@kerber?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/bubbles?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 tags = ["Innovation Culture", "culture", "innovation"]
-title = "How to Transform a Company Culture for Innovation?"
+title = "How to Transform a Company's Culture for Innovation?"
 youtube_handle = ""
 
 +++
