@@ -2,7 +2,7 @@
 author = "Leonardo Zangrando"
 categories = ["Personal Growth", "Greatness"]
 date = 2021-05-25T19:44:39Z
-description = "So thoughts in our mind are just an incessant background noise and we decide what to do with it. If we manage to not give it too much importance, we might be able to hear what's humming behind."
+description = "Thoughts in our mind are just an incessant background noise and we decide what to do with it. If we manage to not give it too much importance, we might be able to hear what's humming behind."
 image = "/images/noise-dan-freeman-g4e6pcot4ps-unsplash.jpeg"
 image_credit = "Photo by [Dan Freeman](https://unsplash.com/@danfreemanphoto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/traffic?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 tags = ["creator", "thoughts", "video"]
