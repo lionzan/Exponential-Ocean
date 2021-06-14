@@ -10,11 +10,12 @@ title = "How to Transform a Company's Culture for Innovation?"
 youtube_handle = ""
 
 +++
-Across all industries and locations, companies' growth slows down with time and this is because they focus their strategy more on economies of scale rather than innovation.
+> Across all industries and locations, companies' growth slows down with time and this is because they **focus their strategy more on economies of scale rather than innovation**.
 
-This comes from a big research by Geoffrey West, a theoretical physicist at Santa Fe Institute working on fundamental questions in physics, biology and sustainability.
+This comes from a big research by Geoffrey West, a theoretical physicist at the Santa Fe Institute working on fundamental questions in physics, biology and sustainability.
 
-The way companies work is inherently not sustainable in the long run and that's why they eventually fail. Combine this with the increasing pace of change in the business environment and it becomes clear that the paradigm under which companies operate has to change and become more open to innovation.
+The way companies work is inherently not sustainable in the long run (from the business perspective) and that's why they eventually fail. Combine this with the **increasing pace of change in the business environment** and it becomes clear that **the paradigm under which companies operate has to change and become more open to innovation.**
 
-Will leaders take the challenge? How can a leader transform their company to make it more open to innovation? These are the themes I help leaders and companies explore to remain competitive through the development of an **#innovationculture**
+Will leaders take the challenge? How can a leader transform their company to make it more open to innovation? These are the themes I help leaders and companies explore to remain competitive through the development of an **#innovationculture.**
 
+If you want your company to become more innovative but you are worried of the impact this will have on business, we can talk. Get in touch via [innovation@zangrando.com](mailto:innovation@zangrando.com) 
