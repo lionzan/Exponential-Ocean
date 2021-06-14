@@ -20,7 +20,7 @@ The following year I spent a month in Silicon Valley, networking with the startu
 
 The [Italian translation went on Kindle](https://www.amazon.co.uk/Pretotype-Pretotipare-Italian-Alberto-Savoia-ebook/dp/B00AZ0IVC4/ref=tmm_kin_swatch_0) and later on was published as a [physical book on Amazon](https://www.amazon.co.uk/Pretotype-Pretotipare-Assicurati-costruire-costruirla/dp/1481881736/ref=sr_1_2). I must admit it is still selling well, in spite of the relatively small dimension of the Italian market!
 
-Fast forward a couple of years and I moved to London, where I started Pretotype Company Ltd, the first pretotyping company in Europe, soon followed by the Danish [Preeto](https://pree.to/) by the other European pretotyping guru [Tim Vang](https://www.linkedin.com/in/timvangmyc4/) (congrats Tim for the amazing steps forward you made!)
+Fast forward a couple of years and I moved to London, where I started Pretotype Company Ltd, the first pretotyping company in Europe, soon followed by the Danish [Pree.to](https://pree.to/) by the other European pretotyping guru [Tim Vang](https://www.linkedin.com/in/timvangmyc4/) (congrats Tim for the amazing traction of Pree.to!)
 
 With the Pretotype Company Alberto and I helped some of the most prestigious corporates in Europe to bring an innovation mindset within the organisation, based on Pretotyping, obvs! Among our clients are the giant UK retailer Tesco, the BBC, booking.com, Fremantle Media and many others across Europe. We also collaborated with Google's CSI:Lab (Creative Skills for Innovation), to develop a [programme on innovation for their G2G programme](https://rework.withgoogle.com/guides/design-thinking/steps/run-a-CSI-Lab-on-design-thinking/) (more on this in a separate post).
 
