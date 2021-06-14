@@ -18,6 +18,8 @@ I was teaching techniques for early validation of innovation ideas, but I was no
 
 The following year I spent a month in Silicon Valley, networking with the startup and innovation community to exchange educational techniques for entrepreneurship, and of course I met the man, Alberto. In that occasion I decided to translate the MVP booklet to Italian and I did it in 6 evenings while still in SV: an MVP shouldn't take long to execute! This gained me a prominent role as early [Pretotyping evangelist](https://www.pretotyping.org/story.html) and I have collaborated with Alberto ever since.
 
+> _You are not only one of the first, but one of the best "disciple", practitioner, and teacher of pretotyping._  – Alberto Savoia
+
 The [Italian translation went on Kindle](https://www.amazon.co.uk/Pretotype-Pretotipare-Italian-Alberto-Savoia-ebook/dp/B00AZ0IVC4/ref=tmm_kin_swatch_0) and later on was published as a [physical book on Amazon](https://www.amazon.co.uk/Pretotype-Pretotipare-Assicurati-costruire-costruirla/dp/1481881736/ref=sr_1_2). I must admit it is still selling well, in spite of the relatively small dimension of the Italian market!
 
 Fast forward a couple of years and I moved to London, where I started Pretotype Company Ltd, the first pretotyping company in Europe, soon followed by the Danish [Pree.to](https://pree.to/) by the other European pretotyping guru [Tim Vang](https://www.linkedin.com/in/timvangmyc4/) (congrats Tim for the amazing traction of Pree.to!)
