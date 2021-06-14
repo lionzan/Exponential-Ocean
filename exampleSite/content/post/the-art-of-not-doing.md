@@ -7,7 +7,7 @@ image = "/images/not-doing-sepp-rutz-6b_pyywatvq-unsplash.jpeg"
 image_credit = "Photo by [Sepp Rutz](https://unsplash.com/@rutzsepp?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/pause?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 tags = ["video", "meditation", "not-doing", "Experiment"]
 title = "The Art of Not-Doing"
-youtube_handle = "Ku5vLTq7ncs"
+youtube_handle = "q98PhiyD8PY"
 
 +++
 Too often we feel overwhelmed by the million things we "have to do", or so we think. We feel that if we don't do them all we will be somehow betraying ourselves. And we suffer form this sense of guilt.
