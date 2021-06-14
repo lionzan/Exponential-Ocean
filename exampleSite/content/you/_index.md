@@ -10,7 +10,7 @@ description: You are a Powerful Person who thinks big and wants to leave a mark 
 ---
 So much [about myself](/about), let's talk about you!
 
-You are a successful person [**who thinks big and wants to leave a mark on life**](/you). You are a CEO, an Entrepreneur, a Philanthropist, or any other person who think bigger that themself and feel they want to leave a mark on life. You are my preferred client.
+You are a successful leader [**who thinks big and wants to leave a mark on life**](/you). You are a CEO, an Entrepreneur, a Philanthropist, or any other person who think bigger that themself and feel they want to leave a mark on life. You are my preferred client.
 
 **You are like a powerful wave in the Ocean**. You have the drive to do something for a great cause like Ocean Sustainability and other global challenges.
 
