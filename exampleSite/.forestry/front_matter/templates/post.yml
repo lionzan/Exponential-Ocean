@@ -47,6 +47,9 @@ fields:
     - Impact
     - Books
     - Other
+    - Innovation
+    - Pretotyping
+    - Personal Growth
 - type: list
   name: tags
   label: tags
