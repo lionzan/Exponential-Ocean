@@ -1,7 +1,7 @@
 +++
 author = "Leonardo Zangrando"
 categories = ["Pretotyping"]
-date = 2021-06-14T11:11:23Z
+date = 2021-05-24T11:11:23Z
 description = "Pretotyping is a framework and set of practices and tools on how to address innovation in organisations by multiplying the number of innovations tested while at the same time dramatically reducing the cost of innovation (i.e. new product failures)."
 image = "/images/pretotype-kobu-agency-ki1ir7l55fm-unsplash.jpeg"
 image_credit = "Photo by [KOBU Agency](https://unsplash.com/@kobuagency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/paper-airplane?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
