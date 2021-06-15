@@ -12,7 +12,7 @@ youtube_handle = "B1H4UdXDGRE"
 +++
 Dream big, not because you want to overdo it, just because you can achieve much more than you believe.
 
-It's your thought that stops you from that. They are the product of your fears and asking you to set small, easily attainable goals so that you will likely achieve them and will not suffer if you fail. But it's just a defensive mechanism.
+It’s your thoughts that stops you from that. They are the product of your fears and ask you to set small, easily attainable goals so that you will likely achieve them and will not suffer if you fail. But that’s just a defensive mechanism.
 
 In reality, your inner creator has much bigger goals that you can and should go after. Just listen to your inner voice after you silenced your thoughts. What is it telling you? What is your inner creator telling you?
 
