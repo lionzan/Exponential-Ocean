@@ -1,7 +1,7 @@
 +++
 author = "Leonardo Zangrando"
 categories = ["Personal Growth", "Greatness"]
-date = 2021-06-17T09:57:53Z
+date = 2021-05-27T09:57:53Z
 description = "Let's have our intention clear, but even if we don't have it absolutely clear, let's take action. "
 image = "/images/action-patrick-hendry-tof1hynm0ly-unsplash.jpeg"
 image_credit = "Photo by [Patrick Hendry](https://unsplash.com/@worldsbetweenlines?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/action?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
