@@ -2,8 +2,8 @@
 title: IESE MBA99 – Help TEDxCowes!!!
 image: images/hero-image-wide.jpg
 image_credit: Image by Leonardo Zangrando
-description: Hey Guys, I need your help to salvage a TEDx event with some powerful
-  speakers on Ocean Sustainability
+description: Hey Guys, I need your help to save a TEDx event on Ocean Sustainability
+  that I am organising with some powerful speakers, which risks to be cancelled
 
 ---
 Hola chic@!
