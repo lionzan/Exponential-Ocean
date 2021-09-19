@@ -14,7 +14,7 @@ as I mentioned in the WhatsApp group, I am organising [TEDxCowes](https://TEDxCo
 
 I am reaching out to all my friends and colleagues to see if they can help me out of this conundrum in either of 3 ways (or even all of them!):
 
-1. as a **helping hand to find sponsors** with a sustainability ethos and able to make a quick decision for a 500-1,000 GBP sponsorship. Also in this case please let me know by sending me an email to [leonardo@zangrando.com](mailto:leonardo@zangrando.com) and we'll take it from there.
+1. as a **helping hand to find sponsors** with a sustainability ethos and able to make a quick decision for a 500-1,000 GBP sponsorship. Please let me know if you can help by sending me an email to [leonardo@zangrando.com](mailto:leonardo@zangrando.com) and we'll take it from there.
 2. as a **donor**, by donating on [this page](https://www.buymeacoffee.com/TEDxCowes). **All donors will be mentioned on a dedicated website page** (but they can ask to remain anonymous and in either case the amount will not be disclosed). Moreover, if you donate 70 GBP or more we will thank you with a **complimentary ticket to the event**, before they go on sale to the general public. And if you can't come to the event we'll send you a full goodie bag including an event t-shirt and other cool stuff!
 3. as a **helping hand on campaign launch day** (sometime w/c 20th Sep.) to reach as many people as possible, inviting them to donate on a dedicated page (DO NOT INVITE THEM YET!) If you are up to it please let me know by sending me an email to [leonardo@zangrando.com](mailto:leonardo@zangrando.com) In this case I will follow up with an email to that purpose, that you can simply forward to your network when we launch the campaign.
 
@@ -40,5 +40,5 @@ As soon as we can fund the Marketing activities, our **social media image will i
 
 Thank you so much for your support!!!
 
-Sincerely yours  
+Un abrazo  
 Leonardo
