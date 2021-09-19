@@ -1,7 +1,8 @@
-  a {
-    border-bottom: 2px;
+
+.content a {
     color: #4287f5;
-  }
+    border-bottom: 1px dotted #4287f5;
+}
 
 
 .post {
