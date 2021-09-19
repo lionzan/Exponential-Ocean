@@ -8,15 +8,21 @@ description: Hey Guys, I need your help to salvage a TEDx event with some powerf
 ---
 Hi my Friend,
 
-as I mentioned in the WhatsApp group, I am organising [TEDxCowes](https://TEDxCowes.com), a TEDx event on Ocean Sustainability for early November in Cowes, Isle of Wight, and **a sponsor pulled out at the last minute**. With less than 7 weeks to the event, we have a **stellar lineup of** [**speakers**](https://www.tedxcowes.com/#team) and a [**prime location**](https://islandsc.org.uk) **for the event**, but **no funds to pay for marketing and most importantly AV production!** (more details below)
+as I mentioned in the WhatsApp group, I am organising [TEDxCowes](https://TEDxCowes.com), a TEDx event on Ocean Sustainability for early November in Cowes, Isle of Wight. I came up with the idea of running **TEDxCowes «Ocean : Inspire»** to inspire people, leaders, CEOs, entrepreneurs, philanthropists and companies, to find their own way to multiply exponentially their impact on Ocean Sustainability, with examples of people who successfully managed to have a multiplicative effect and leave a mark.
+
+**A few days ago we had a massive setback: a sponsor pulled out at the last minute**. With less than 7 weeks to the event, we have a **stellar lineup of** [**speakers**](https://www.tedxcowes.com/#team) and a [**prime location**](https://islandsc.org.uk) **for the event**, but **no funds to pay for marketing and most importantly AV production!** (more details below)
 
 I am reaching out to all my friends and colleagues to see if they can help me out of this conundrum in either of 3 ways (or even all of them!):
 
-1. as a **donor**, by donating on [this page](https://www.buymeacoffee.com/TEDxCowes). **All donors will be mentioned on a dedicated website page** (but they can ask to remain anonymous and in either case the amount will not be disclosed). Moreover, if you donate 70 GBP or more we will thank you with a **complimentary ticket to the event**, before they go on sale to the general public. And if you can't come to the event we'll send you a full goodie bag including an event t-shirt and other cool stuff!
-2. as a **helping hand on campaign launch day** (sometime w/c 20th Sep.) to reach as many people as possible, inviting them to donate on a dedicated page (DO NOT INVITE THEM YET!) If you are up to it please let me know by sending me an email to [leonardo@zangrando.com](mailto:leonardo@zangrando.com) In this case I will follow up with an email to that purpose, that you can simply forward to your network when we launch the campaign.
-3. as a **helping hand to find sponsors** with a sustainability ethos and able to make a quick decision for a 500-1,000 GBP sponsorship. Also in this case please let me know by sending me an email to [leonardo@zangrando.com](mailto:leonardo@zangrando.com) and we'll take it from there.
+1. as a **helping hand to find sponsors** with a sustainability ethos and able to make a quick decision for a 500-1,000 GBP sponsorship. Also in this case please let me know by sending me an email to [leonardo@zangrando.com](mailto:leonardo@zangrando.com) and we'll take it from there.
+2. as a **donor**, by donating on [this page](https://www.buymeacoffee.com/TEDxCowes). **All donors will be mentioned on a dedicated website page** (but they can ask to remain anonymous and in either case the amount will not be disclosed). Moreover, if you donate 70 GBP or more we will thank you with a **complimentary ticket to the event**, before they go on sale to the general public. And if you can't come to the event we'll send you a full goodie bag including an event t-shirt and other cool stuff!
+3. as a **helping hand on campaign launch day** (sometime w/c 20th Sep.) to reach as many people as possible, inviting them to donate on a dedicated page (DO NOT INVITE THEM YET!) If you are up to it please let me know by sending me an email to [leonardo@zangrando.com](mailto:leonardo@zangrando.com) In this case I will follow up with an email to that purpose, that you can simply forward to your network when we launch the campaign.
 
-#### Some more information on the project
+#### Campaign Objective
+
+With this crowdfunding campaign I want to fund a minimum of Marketing activity to advertise tickets sale and attract small-check sponsors, which in turn will fund the AV production. That is: Crowdfunding £2,000+ -> Event tickets marketing -> sell 70 tickets @ £70 + find small sponsors @ £500/1,000 -> pay for AV production -> successful event!
+
+#### More Information on the Project
 
 I came up with the idea of running **TEDxCowes «Ocean : Inspire»** to inspire people, leaders, CEOs, entrepreneurs, philanthropists and companies, to find their own way to multiply exponentially their impact on Ocean Sustainability, with examples of people who successfully managed to have a multiplicative effect and leave a mark.
 
@@ -31,10 +37,6 @@ Unfortunately **we just had a setback that is putting all the event at risk**. W
 As soon as we can fund the Marketing activities, our **social media image will improve dramatically** and we will be able to **actively attract investors and paid attendees**, both of which will allow us to fund further Marketing – if needed – and most importantly AV Production.
 
 **Professional AV support is essential to produce high quality videos of the talks**, that will be then uploaded to the TED website. Out of these, TED selects only the best TEDx videos to be shown on their platform with global exposure. **Our speakers are absolutely great, and it would be a shame to miss the opportunity to give their _"ideas worth spreading"_ the global visibility that they deserve** just because of a poor quality video production.
-
-#### Campaign Objective
-
-With this crowdfunding campaign I want to fund a minimum of Marketing activity to advertise tickets sale and attract small-check sponsors, which in turn will fund the AV production. That is: Crowdfunding £2,000+ -> Event tickets marketing -> sell 70 tickets @ £70 + find small sponsors @ £500/1,000 -> pay for AV production -> successful event!
 
 Thank you so much for your support!!!
 
