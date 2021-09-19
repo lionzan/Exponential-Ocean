@@ -1,5 +1,5 @@
 ---
-title: IESE MBA99 Letter
+title: IESE MBA99 – Help TEDxCowes!!!
 image: images/hero-image-wide.jpg
 image_credit: Image by Leonardo Zangrando
 description: Hey Guys, I need your help to salvage a TEDx event with some powerful
