@@ -6,7 +6,7 @@ description: Hey Guys, I need your help to salvage a TEDx event with some powerf
   speakers on Ocean Sustainability
 
 ---
-Hi my friend,
+Hi my Friend,
 
 as I mentioned in the WhatsApp group, I am organising [TEDxCowes](https://TEDxCowes.com), a TEDx event on Ocean Sustainability for early November in Cowes, Isle of Wight, and **a sponsor pulled out at the last minute**. With less than 7 weeks to the event, we have a **stellar lineup of** [**speakers**](https://www.tedxcowes.com/#team) and a [**prime location**](https://islandsc.org.uk) **for the event**, but **no funds to pay for marketing and most importantly AV production!** (more details below)
 
