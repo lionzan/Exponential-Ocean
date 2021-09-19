@@ -6,7 +6,7 @@ description: Hey Guys, I need your help to salvage a TEDx event with some powerf
   speakers on Ocean Sustainability
 
 ---
-Hi my Friend,
+Hola chic@!
 
 as I mentioned in the WhatsApp group, I am organising [TEDxCowes](https://TEDxCowes.com), a TEDx event on Ocean Sustainability for early November in Cowes, Isle of Wight. I came up with the idea of running **TEDxCowes «Ocean : Inspire»** to inspire people, leaders, CEOs, entrepreneurs, philanthropists and companies, to find their own way to multiply exponentially their impact on Ocean Sustainability, with examples of people who successfully managed to have a multiplicative effect and leave a mark.
 
