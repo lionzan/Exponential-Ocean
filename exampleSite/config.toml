@@ -4,7 +4,7 @@ languageCode = "en-uk"
 languageName = "En"
 paginate = "21"
 theme = "persian"
-title = "Exponential Ocean"
+title = "Leonardo Zangrando"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
@@ -53,7 +53,7 @@ home = ["HTML", "RSS", "json"]
 OGImage = "images/wave-or-ocean-w-logo.jpeg"
 author = "Leonardo Zangrando"
 contact_form_action = "https://docs.google.com/forms/u/2/d/e/1FAIpQLSf3I55AFqkvHrOrEmQNgrs5eBycJbYAfHlr6Ik5oquS8mHlBA/formResponse"
-copyright = "©2021 Leonardo Zangrando"
+copyright = "©2022 Leonardo Zangrando"
 custom_css = ["css/foo.css"]
 description = "Highly successful people can be like powerful waves in the Ocean. But there’s only so much that a wave can grow. What about __becoming the Ocean__ instead?\n\nI work with Leaders who want to leave a mark on the world but they feel they can do just so much. I help them multiply their impact on their own life, their business and sustainability.\n\nI guide them to go beyond their past successes as powerful waves and become powerful like the Ocean. \n\nI help them gain clarity of objectives, discover their unique approach to achieve them and  multiply exponentially their impact. \n\nWith transparency, integrity and out-of-the-box thinking.\n\n[Meet](/about) [you](/you) inside!\n\n[Leonardo Zangrando – _Impact Coach_](/about)\n\n![Leonardo Zangrando](images/hero-image.jpg \"Leonardo Zangrando – Ocean Impact Coach\")"
 design_by = "Original Web Design By [Themefisher](https://themefisher.com/) & [Gethugothemes](https://gethugothemes.com/)"
